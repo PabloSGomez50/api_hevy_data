@@ -1,0 +1,1153 @@
+,title,start_time,end_time,exercise_title,exercise_notes,set_index,set_type,weight_kg,reps,duration_seconds,day,month,year,m-y
+0,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Bench Press (Barbell),,1,normal,60.0,8,,28,12,2023,12-2023
+1,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Bench Press (Barbell),,2,normal,60.0,7,,28,12,2023,12-2023
+2,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Bench Press (Barbell),,3,normal,57.5,7,,28,12,2023,12-2023
+3,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Incline Bench Press (Barbell),,1,normal,45.0,12,,28,12,2023,12-2023
+4,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Incline Bench Press (Barbell),,2,normal,45.0,11,,28,12,2023,12-2023
+5,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Incline Bench Press (Barbell),,3,normal,45.0,11,,28,12,2023,12-2023
+6,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Chest Dip,,1,normal,,12,,28,12,2023,12-2023
+7,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Chest Dip,,2,normal,,11,,28,12,2023,12-2023
+8,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Chest Dip,,3,normal,,11,,28,12,2023,12-2023
+9,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Seated Shoulder Press (Machine),,1,normal,35.0,12,,28,12,2023,12-2023
+10,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Seated Shoulder Press (Machine),,2,normal,35.0,12,,28,12,2023,12-2023
+11,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Seated Shoulder Press (Machine),,3,normal,35.0,12,,28,12,2023,12-2023
+12,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Lateral Raise (Cable),,1,normal,5.0,12,,28,12,2023,12-2023
+13,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Lateral Raise (Cable),,2,normal,5.0,12,,28,12,2023,12-2023
+14,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Lateral Raise (Cable),,3,normal,5.0,12,,28,12,2023,12-2023
+15,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Triceps Pushdown,,1,normal,17.5,12,,28,12,2023,12-2023
+16,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Triceps Pushdown,,2,normal,17.5,12,,28,12,2023,12-2023
+17,Pecho-tríceps,2023-12-28 11:11:00,2023-12-28 12:24:00,Triceps Pushdown,,3,normal,17.5,12,,28,12,2023,12-2023
+18,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Pull Up,,1,normal,,8,,27,12,2023,12-2023
+19,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Pull Up,,2,normal,,7,,27,12,2023,12-2023
+20,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Pull Up,,3,normal,,5,,27,12,2023,12-2023
+21,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Chin Up,,1,normal,,6,,27,12,2023,12-2023
+22,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Chin Up,,2,normal,,5,,27,12,2023,12-2023
+23,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Chin Up,,3,normal,,5,,27,12,2023,12-2023
+24,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Inverted Row,,4,normal,,10,,27,12,2023,12-2023
+25,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Inverted Row,,5,normal,,9,,27,12,2023,12-2023
+26,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Inverted Row,,6,normal,,9,,27,12,2023,12-2023
+27,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Lat Pulldown (Cable),,1,normal,50.0,12,,27,12,2023,12-2023
+28,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Chin Ups (Cable),,1,normal,55.0,12,,27,12,2023,12-2023
+29,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,27,12,2023,12-2023
+30,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,27,12,2023,12-2023
+31,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,27,12,2023,12-2023
+32,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Bicep Curl (Dumbbell),,1,normal,10.0,10,,27,12,2023,12-2023
+33,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Bicep Curl (Dumbbell),,2,normal,10.0,8,,27,12,2023,12-2023
+34,Espalda-Bíceps,2023-12-27 14:54:00,2023-12-27 16:04:00,Bicep Curl (Dumbbell),,3,normal,10.0,6,,27,12,2023,12-2023
+35,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Bench Press (Barbell),,1,normal,50.0,12,,26,12,2023,12-2023
+36,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Bench Press (Barbell),,2,normal,55.0,12,,26,12,2023,12-2023
+37,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Bench Press (Barbell),,3,normal,55.0,19,,26,12,2023,12-2023
+38,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Bench Press (Barbell),,4,normal,55.0,8,,26,12,2023,12-2023
+39,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Incline Bench Press (Barbell),,1,normal,45.0,11,,26,12,2023,12-2023
+40,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Incline Bench Press (Barbell),,2,normal,45.0,9,,26,12,2023,12-2023
+41,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Incline Bench Press (Barbell),,3,normal,45.0,8,,26,12,2023,12-2023
+42,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Cable Fly Crossovers,,1,normal,10.0,12,,26,12,2023,12-2023
+43,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Cable Fly Crossovers,,2,normal,10.0,12,,26,12,2023,12-2023
+44,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Cable Fly Crossovers,,3,normal,10.0,12,,26,12,2023,12-2023
+45,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Chest Dip,,1,normal,,12,,26,12,2023,12-2023
+46,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Chest Dip,,2,normal,,11,,26,12,2023,12-2023
+47,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Chest Dip,,3,normal,,11,,26,12,2023,12-2023
+48,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Seated Shoulder Press (Machine),,1,normal,35.0,12,,26,12,2023,12-2023
+49,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Seated Shoulder Press (Machine),,2,normal,35.0,8,,26,12,2023,12-2023
+50,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Seated Shoulder Press (Machine),,3,normal,35.0,10,,26,12,2023,12-2023
+51,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Lateral Raise (Cable),,1,normal,5.0,12,,26,12,2023,12-2023
+52,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Lateral Raise (Cable),,2,normal,5.0,12,,26,12,2023,12-2023
+53,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Lateral Raise (Cable),,3,normal,5.0,12,,26,12,2023,12-2023
+54,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Triceps Pushdown,,1,normal,17.5,12,,26,12,2023,12-2023
+55,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Triceps Pushdown,,2,normal,17.5,12,,26,12,2023,12-2023
+56,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Triceps Pushdown,,3,normal,17.5,12,,26,12,2023,12-2023
+57,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Cable Overhead (Extensión De Triceps),,1,normal,15.0,12,,26,12,2023,12-2023
+58,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Cable Overhead (Extensión De Triceps),,2,normal,15.0,12,,26,12,2023,12-2023
+59,Pecho-tríceps,2023-12-26 15:12:00,2023-12-26 17:20:00,Cable Overhead (Extensión De Triceps),,3,normal,15.0,10,,26,12,2023,12-2023
+60,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Bench Press (Barbell),,1,normal,55.0,12,,22,12,2023,12-2023
+61,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Bench Press (Barbell),,2,normal,55.0,12,,22,12,2023,12-2023
+62,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Bench Press (Barbell),,3,normal,55.0,10,,22,12,2023,12-2023
+63,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Incline Bench Press (Barbell),,1,normal,40.0,12,,22,12,2023,12-2023
+64,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Incline Bench Press (Barbell),,2,normal,40.0,12,,22,12,2023,12-2023
+65,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Incline Bench Press (Barbell),,3,normal,40.0,12,,22,12,2023,12-2023
+66,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Cable Fly Crossovers,,1,normal,10.0,12,,22,12,2023,12-2023
+67,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Cable Fly Crossovers,,2,normal,10.0,12,,22,12,2023,12-2023
+68,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Cable Fly Crossovers,,3,normal,10.0,12,,22,12,2023,12-2023
+69,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Chest Dip,,1,normal,,12,,22,12,2023,12-2023
+70,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Chest Dip,,2,normal,,11,,22,12,2023,12-2023
+71,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Chest Dip,,3,normal,,11,,22,12,2023,12-2023
+72,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Seated Shoulder Press (Machine),,1,normal,35.0,12,,22,12,2023,12-2023
+73,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Seated Shoulder Press (Machine),,2,normal,35.0,8,,22,12,2023,12-2023
+74,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Seated Shoulder Press (Machine),,3,normal,35.0,10,,22,12,2023,12-2023
+75,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Lateral Raise (Cable),,1,normal,5.0,12,,22,12,2023,12-2023
+76,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Lateral Raise (Cable),,2,normal,5.0,12,,22,12,2023,12-2023
+77,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Lateral Raise (Cable),,3,normal,5.0,12,,22,12,2023,12-2023
+78,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Triceps Pushdown,,1,normal,17.5,12,,22,12,2023,12-2023
+79,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Triceps Pushdown,,2,normal,17.5,12,,22,12,2023,12-2023
+80,Pecho-tríceps,2023-12-22 11:02:00,2023-12-22 12:37:00,Triceps Pushdown,,3,normal,17.5,12,,22,12,2023,12-2023
+81,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Pull Up,,1,normal,,8,,21,12,2023,12-2023
+82,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Pull Up,,2,normal,,7,,21,12,2023,12-2023
+83,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Pull Up,,3,normal,,5,,21,12,2023,12-2023
+84,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Chin Up,,1,normal,,6,,21,12,2023,12-2023
+85,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Chin Up,,2,normal,,5,,21,12,2023,12-2023
+86,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Chin Up,,3,normal,,5,,21,12,2023,12-2023
+87,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Inverted Row,,4,normal,,10,,21,12,2023,12-2023
+88,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Inverted Row,,5,normal,,9,,21,12,2023,12-2023
+89,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Inverted Row,,6,normal,,9,,21,12,2023,12-2023
+90,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Lat Pulldown (Cable),,1,normal,50.0,12,,21,12,2023,12-2023
+91,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Lat Pulldown (Cable),,2,normal,50.0,10,,21,12,2023,12-2023
+92,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Lat Pulldown (Cable),,3,normal,50.0,11,,21,12,2023,12-2023
+93,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Chin Ups (Cable),,1,normal,55.0,12,,21,12,2023,12-2023
+94,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Chin Ups (Cable),,2,normal,55.0,11,,21,12,2023,12-2023
+95,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Chin Ups (Cable),,3,normal,55.0,11,,21,12,2023,12-2023
+96,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,21,12,2023,12-2023
+97,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,21,12,2023,12-2023
+98,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,21,12,2023,12-2023
+99,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Bicep Curl (Dumbbell),,1,normal,8.0,12,,21,12,2023,12-2023
+100,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Bicep Curl (Dumbbell),,2,normal,8.0,11,,21,12,2023,12-2023
+101,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Bicep Curl (Dumbbell),,3,normal,8.0,9,,21,12,2023,12-2023
+102,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Face Pull,,1,normal,40.0,12,,21,12,2023,12-2023
+103,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Face Pull,,2,normal,40.0,12,,21,12,2023,12-2023
+104,Espalda-Bíceps,2023-12-21 15:20:00,2023-12-21 16:55:00,Face Pull,,3,normal,40.0,12,,21,12,2023,12-2023
+105,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Bench Press (Barbell),,1,normal,50.0,12,,19,12,2023,12-2023
+106,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Bench Press (Barbell),,2,normal,50.0,10,,19,12,2023,12-2023
+107,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Bench Press (Barbell),,3,normal,50.0,9,,19,12,2023,12-2023
+108,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Incline Bench Press (Barbell),,1,normal,40.0,12,,19,12,2023,12-2023
+109,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Incline Bench Press (Barbell),,2,normal,40.0,11,,19,12,2023,12-2023
+110,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Incline Bench Press (Barbell),,3,normal,40.0,11,,19,12,2023,12-2023
+111,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Chest Dip,,1,normal,,12,,19,12,2023,12-2023
+112,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Chest Dip,,2,normal,,11,,19,12,2023,12-2023
+113,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Chest Dip,,3,normal,,11,,19,12,2023,12-2023
+114,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Lateral Raise (Cable),,1,normal,5.0,12,,19,12,2023,12-2023
+115,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Lateral Raise (Cable),,2,normal,5.0,12,,19,12,2023,12-2023
+116,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Lateral Raise (Cable),,3,normal,5.0,12,,19,12,2023,12-2023
+117,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Triceps Pushdown,,1,normal,17.5,12,,19,12,2023,12-2023
+118,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Triceps Pushdown,,2,normal,20.0,12,,19,12,2023,12-2023
+119,Pecho-tríceps,2023-12-19 15:20:00,2023-12-19 16:47:00,Triceps Pushdown,,3,normal,20.0,12,,19,12,2023,12-2023
+120,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Pull Up,,1,normal,,8,,18,12,2023,12-2023
+121,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Pull Up,,2,normal,,7,,18,12,2023,12-2023
+122,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Pull Up,,3,normal,,6,,18,12,2023,12-2023
+123,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Chin Up,,1,normal,,6,,18,12,2023,12-2023
+124,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Chin Up,,2,normal,,4,,18,12,2023,12-2023
+125,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Chin Up,,3,normal,,4,,18,12,2023,12-2023
+126,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Lat Pulldown (Cable),,1,normal,50.0,12,,18,12,2023,12-2023
+127,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Lat Pulldown (Cable),,2,normal,50.0,12,,18,12,2023,12-2023
+128,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Lat Pulldown (Cable),,3,normal,50.0,12,,18,12,2023,12-2023
+129,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Chin Ups (Cable),,1,normal,55.0,12,,18,12,2023,12-2023
+130,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Chin Ups (Cable),,2,normal,55.0,12,,18,12,2023,12-2023
+131,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Chin Ups (Cable),,3,normal,,12,,18,12,2023,12-2023
+132,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,18,12,2023,12-2023
+133,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,18,12,2023,12-2023
+134,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,18,12,2023,12-2023
+135,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Bicep Curl (Dumbbell),,1,normal,8.0,12,,18,12,2023,12-2023
+136,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Bicep Curl (Dumbbell),,2,normal,8.0,10,,18,12,2023,12-2023
+137,Espalda-Bíceps,2023-12-18 15:45:00,2023-12-18 17:04:00,Bicep Curl (Dumbbell),,3,normal,8.0,10,,18,12,2023,12-2023
+138,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Bench Press (Barbell),,1,normal,50.0,12,,15,12,2023,12-2023
+139,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Bench Press (Barbell),,2,normal,55.0,10,,15,12,2023,12-2023
+140,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Bench Press (Barbell),,3,normal,55.0,9,,15,12,2023,12-2023
+141,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Incline Bench Press (Barbell),,1,normal,40.0,12,,15,12,2023,12-2023
+142,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Incline Bench Press (Barbell),,2,normal,40.0,11,,15,12,2023,12-2023
+143,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Incline Bench Press (Barbell),,3,normal,40.0,11,,15,12,2023,12-2023
+144,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Cable Fly Crossovers,,1,normal,10.0,12,,15,12,2023,12-2023
+145,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Cable Fly Crossovers,,2,normal,10.0,12,,15,12,2023,12-2023
+146,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Cable Fly Crossovers,,3,normal,10.0,10,,15,12,2023,12-2023
+147,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Chest Dip,,1,normal,,10,,15,12,2023,12-2023
+148,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Chest Dip,,2,normal,,10,,15,12,2023,12-2023
+149,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Seated Shoulder Press (Machine),,1,normal,40.0,12,,15,12,2023,12-2023
+150,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Seated Shoulder Press (Machine),,2,normal,35.0,12,,15,12,2023,12-2023
+151,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Seated Shoulder Press (Machine),,3,normal,35.0,10,,15,12,2023,12-2023
+152,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Lateral Raise (Cable),,1,normal,5.0,12,,15,12,2023,12-2023
+153,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Lateral Raise (Cable),,2,normal,5.0,12,,15,12,2023,12-2023
+154,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Lateral Raise (Cable),,3,normal,5.0,12,,15,12,2023,12-2023
+155,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Triceps Pushdown,,1,normal,17.5,12,,15,12,2023,12-2023
+156,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Triceps Pushdown,,2,normal,17.5,12,,15,12,2023,12-2023
+157,Pecho-tríceps,2023-12-15 11:21:00,2023-12-15 12:36:00,Triceps Pushdown,,3,normal,17.5,12,,15,12,2023,12-2023
+158,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Pull Up,,1,normal,,7,,12,12,2023,12-2023
+159,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Pull Up,,2,normal,,6,,12,12,2023,12-2023
+160,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Chin Up,,1,normal,,7,,12,12,2023,12-2023
+161,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Chin Up,,2,normal,,6,,12,12,2023,12-2023
+162,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Lat Pulldown (Cable),,1,normal,50.0,12,,12,12,2023,12-2023
+163,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Lat Pulldown (Cable),,2,normal,50.0,12,,12,12,2023,12-2023
+164,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Lat Pulldown (Cable),,3,normal,50.0,12,,12,12,2023,12-2023
+165,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Chin Ups (Cable),,1,normal,55.0,12,,12,12,2023,12-2023
+166,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Chin Ups (Cable),,2,normal,55.0,12,,12,12,2023,12-2023
+167,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Chin Ups (Cable),,3,normal,55.0,10,,12,12,2023,12-2023
+168,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,12,12,2023,12-2023
+169,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,12,12,2023,12-2023
+170,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,12,12,2023,12-2023
+171,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Bicep Curl (Dumbbell),,1,normal,8.0,12,,12,12,2023,12-2023
+172,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Bicep Curl (Dumbbell),,2,normal,8.0,10,,12,12,2023,12-2023
+173,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Bicep Curl (Dumbbell),,3,normal,8.0,7,,12,12,2023,12-2023
+174,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Hammer Curl (Dumbbell),,1,normal,8.0,6,,12,12,2023,12-2023
+175,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Hammer Curl (Dumbbell),,2,normal,6.0,10,,12,12,2023,12-2023
+176,Espalda-Bíceps,2023-12-12 11:10:00,2023-12-12 12:38:00,Hammer Curl (Dumbbell),,3,normal,6.0,10,,12,12,2023,12-2023
+177,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Bench Press (Barbell),,1,normal,50.0,12,,11,12,2023,12-2023
+178,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Bench Press (Barbell),,2,normal,55.0,10,,11,12,2023,12-2023
+179,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Bench Press (Barbell),,3,normal,55.0,8,,11,12,2023,12-2023
+180,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Incline Bench Press (Barbell),,1,normal,40.0,12,,11,12,2023,12-2023
+181,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Incline Bench Press (Barbell),,2,normal,40.0,12,,11,12,2023,12-2023
+182,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Incline Bench Press (Barbell),,3,normal,40.0,10,,11,12,2023,12-2023
+183,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Cable Fly Crossovers,,1,normal,10.0,12,,11,12,2023,12-2023
+184,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Cable Fly Crossovers,,2,normal,10.0,12,,11,12,2023,12-2023
+185,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Cable Fly Crossovers,,3,normal,15.0,8,,11,12,2023,12-2023
+186,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Chest Dip,,1,normal,,10,,11,12,2023,12-2023
+187,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Chest Dip,,2,normal,,10,,11,12,2023,12-2023
+188,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Chest Dip,,3,normal,,8,,11,12,2023,12-2023
+189,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Lateral Raise (Cable),,1,normal,5.0,12,,11,12,2023,12-2023
+190,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Lateral Raise (Cable),,2,normal,5.0,12,,11,12,2023,12-2023
+191,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Lateral Raise (Cable),,3,normal,5.0,12,,11,12,2023,12-2023
+192,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Triceps Pushdown,,1,normal,20.0,10,,11,12,2023,12-2023
+193,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Triceps Pushdown,,2,normal,17.5,10,,11,12,2023,12-2023
+194,Pecho-tríceps,2023-12-11 15:09:00,2023-12-11 16:41:00,Triceps Pushdown,,3,normal,17.0,9,,11,12,2023,12-2023
+195,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Pull Up,,1,normal,,7,,9,11,2023,11-2023
+196,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Pull Up,,2,normal,,6,,9,11,2023,11-2023
+197,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Pull Up,,3,normal,,5,,9,11,2023,11-2023
+198,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Chin Up,,1,normal,,7,,9,11,2023,11-2023
+199,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Chin Up,,2,normal,,6,,9,11,2023,11-2023
+200,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Chin Up,,3,normal,,5,,9,11,2023,11-2023
+201,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Inverted Row,,2,normal,,17,,9,11,2023,11-2023
+202,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Inverted Row,,3,normal,,16,,9,11,2023,11-2023
+203,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Lat Pulldown (Cable),,1,normal,50.0,12,,9,11,2023,11-2023
+204,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Lat Pulldown (Cable),,2,normal,50.0,12,,9,11,2023,11-2023
+205,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Lat Pulldown (Cable),,3,normal,55.0,9,,9,11,2023,11-2023
+206,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Chin Ups (Cable),,1,normal,60.0,11,,9,11,2023,11-2023
+207,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Chin Ups (Cable),,2,normal,60.0,9,,9,11,2023,11-2023
+208,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Chin Ups (Cable),,3,normal,55.0,11,,9,11,2023,11-2023
+209,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,9,11,2023,11-2023
+210,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,9,11,2023,11-2023
+211,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,9,11,2023,11-2023
+212,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,EZ Bar Biceps Curl,,1,normal,18.0,12,,9,11,2023,11-2023
+213,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,EZ Bar Biceps Curl,,2,normal,18.0,10,,9,11,2023,11-2023
+214,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,EZ Bar Biceps Curl,,3,normal,18.0,10,,9,11,2023,11-2023
+215,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Iso-Lateral Row (Machine),,1,normal,15.9,8,,9,11,2023,11-2023
+216,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Iso-Lateral Row (Machine),,2,normal,13.8,12,,9,11,2023,11-2023
+217,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Iso-Lateral Row (Machine),,3,normal,13.8,11,,9,11,2023,11-2023
+218,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Shrug (Dumbbell),,1,normal,13.0,12,,9,11,2023,11-2023
+219,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Shrug (Dumbbell),,2,normal,13.0,12,,9,11,2023,11-2023
+220,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Shrug (Dumbbell),,3,normal,13.0,12,,9,11,2023,11-2023
+221,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Face Pull,,1,normal,40.0,12,,9,11,2023,11-2023
+222,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Face Pull,,2,normal,40.0,12,,9,11,2023,11-2023
+223,Espalda-Bíceps,2023-11-09 11:41:00,2023-11-09 13:18:00,Face Pull,,3,normal,40.0,12,,9,11,2023,11-2023
+224,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Hack Squat (Machine),"45,2 = 22,6kg cada lado = 2 x 11,3kg cada lado",1,normal,45.2,12,,8,11,2023,11-2023
+225,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Hack Squat (Machine),"45,2 = 22,6kg cada lado = 2 x 11,3kg cada lado",2,normal,45.2,12,,8,11,2023,11-2023
+226,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Hack Squat (Machine),"45,2 = 22,6kg cada lado = 2 x 11,3kg cada lado",3,normal,45.2,12,,8,11,2023,11-2023
+227,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Leg Extension (Machine),,1,normal,25.0,12,,8,11,2023,11-2023
+228,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Leg Extension (Machine),,2,normal,25.0,12,,8,11,2023,11-2023
+229,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Leg Extension (Machine),,3,normal,25.0,11,,8,11,2023,11-2023
+230,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Lying Leg Curl (Machine),,1,normal,35.0,12,,8,11,2023,11-2023
+231,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Lying Leg Curl (Machine),,2,normal,40.0,12,,8,11,2023,11-2023
+232,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Lying Leg Curl (Machine),,3,normal,40.0,12,,8,11,2023,11-2023
+233,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Standing Calf Raise (Machine),,1,normal,70.0,12,,8,11,2023,11-2023
+234,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Standing Calf Raise (Machine),,2,normal,70.0,12,,8,11,2023,11-2023
+235,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Standing Calf Raise (Machine),,3,normal,75.0,12,,8,11,2023,11-2023
+236,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Knee Raise Parallel Bars,,1,normal,,25,,8,11,2023,11-2023
+237,Piernas,2023-11-08 11:22:00,2023-11-08 12:52:00,Knee Raise Parallel Bars,,2,normal,,12,,8,11,2023,11-2023
+238,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Bench Press (Barbell),,1,normal,56.8,11,,7,11,2023,11-2023
+239,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Bench Press (Barbell),,2,normal,56.8,10,,7,11,2023,11-2023
+240,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Bench Press (Barbell),,3,normal,56.8,9,,7,11,2023,11-2023
+241,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Iso-Lateral Chest Press (Machine),,1,normal,36.8,12,,7,11,2023,11-2023
+242,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Iso-Lateral Chest Press (Machine),,2,normal,36.8,12,,7,11,2023,11-2023
+243,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Iso-Lateral Chest Press (Machine),,3,normal,36.8,12,,7,11,2023,11-2023
+244,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Cable Fly Crossovers,,1,normal,15.0,12,,7,11,2023,11-2023
+245,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Cable Fly Crossovers,,2,normal,15.0,12,,7,11,2023,11-2023
+246,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Cable Fly Crossovers,,3,normal,15.0,12,,7,11,2023,11-2023
+247,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Seated Dip Machine,,1,normal,60.0,12,,7,11,2023,11-2023
+248,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Seated Dip Machine,,2,normal,60.0,12,,7,11,2023,11-2023
+249,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Seated Dip Machine,,3,normal,60.0,12,,7,11,2023,11-2023
+250,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Seated Shoulder Press (Machine),,1,normal,40.0,12,,7,11,2023,11-2023
+251,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Seated Shoulder Press (Machine),,2,normal,40.0,12,,7,11,2023,11-2023
+252,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Seated Shoulder Press (Machine),,3,normal,40.0,10,,7,11,2023,11-2023
+253,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Lateral Raise (Cable),,1,normal,10.0,12,,7,11,2023,11-2023
+254,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Lateral Raise (Cable),,2,normal,10.0,11,,7,11,2023,11-2023
+255,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Lateral Raise (Cable),,3,normal,10.0,10,,7,11,2023,11-2023
+256,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Triceps Pushdown,,1,normal,45.0,12,,7,11,2023,11-2023
+257,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Triceps Pushdown,,2,normal,50.0,10,,7,11,2023,11-2023
+258,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Triceps Pushdown,,3,normal,50.0,9,,7,11,2023,11-2023
+259,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Cable Overhead (Extensión De Triceps),,1,normal,20.0,12,,7,11,2023,11-2023
+260,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Cable Overhead (Extensión De Triceps),,2,normal,20.0,12,,7,11,2023,11-2023
+261,Pecho-tríceps,2023-11-07 11:27:00,2023-11-07 12:56:00,Cable Overhead (Extensión De Triceps),,3,normal,20.0,10,,7,11,2023,11-2023
+262,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Pull Up,,1,normal,,7,,6,11,2023,11-2023
+263,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Pull Up,,2,normal,,6,,6,11,2023,11-2023
+264,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Pull Up,,3,normal,,5,,6,11,2023,11-2023
+265,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Chin Up,,1,normal,,8,,6,11,2023,11-2023
+266,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Chin Up,,2,normal,,5,,6,11,2023,11-2023
+267,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Chin Up,,3,normal,,5,,6,11,2023,11-2023
+268,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Lat Pulldown (Cable),,1,normal,50.0,12,,6,11,2023,11-2023
+269,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Lat Pulldown (Cable),,2,normal,50.0,12,,6,11,2023,11-2023
+270,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Lat Pulldown (Cable),,3,normal,50.0,12,,6,11,2023,11-2023
+271,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Chin Ups (Cable),,1,normal,60.0,10,,6,11,2023,11-2023
+272,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Chin Ups (Cable),,2,normal,60.0,8,,6,11,2023,11-2023
+273,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Chin Ups (Cable),,3,normal,55.0,11,,6,11,2023,11-2023
+274,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,6,11,2023,11-2023
+275,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,6,11,2023,11-2023
+276,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,6,11,2023,11-2023
+277,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,EZ Bar Biceps Curl,,1,normal,18.0,12,,6,11,2023,11-2023
+278,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,EZ Bar Biceps Curl,,2,normal,18.0,10,,6,11,2023,11-2023
+279,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,EZ Bar Biceps Curl,,3,normal,18.0,10,,6,11,2023,11-2023
+280,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Shrug (Dumbbell),,1,normal,13.0,12,,6,11,2023,11-2023
+281,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Shrug (Dumbbell),,2,normal,13.0,12,,6,11,2023,11-2023
+282,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Shrug (Dumbbell),,3,normal,13.0,12,,6,11,2023,11-2023
+283,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Face Pull,,1,normal,40.0,12,,6,11,2023,11-2023
+284,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Face Pull,,2,normal,40.0,12,,6,11,2023,11-2023
+285,Espalda-Bíceps,2023-11-06 10:57:00,2023-11-06 12:47:00,Face Pull,,3,normal,40.0,12,,6,11,2023,11-2023
+286,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Bench Press (Barbell),,1,normal,56.8,12,,3,11,2023,11-2023
+287,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Bench Press (Barbell),,2,normal,56.8,11,,3,11,2023,11-2023
+288,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Bench Press (Barbell),,3,normal,56.8,9,,3,11,2023,11-2023
+289,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Iso-Lateral Chest Press (Machine),,1,normal,36.8,12,,3,11,2023,11-2023
+290,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Iso-Lateral Chest Press (Machine),,2,normal,36.8,12,,3,11,2023,11-2023
+291,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Iso-Lateral Chest Press (Machine),,3,normal,36.8,10,,3,11,2023,11-2023
+292,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Cable Fly Crossovers,,1,normal,15.0,12,,3,11,2023,11-2023
+293,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Cable Fly Crossovers,,2,normal,15.0,12,,3,11,2023,11-2023
+294,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Cable Fly Crossovers,,3,normal,15.0,12,,3,11,2023,11-2023
+295,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Seated Dip Machine,,1,normal,60.0,12,,3,11,2023,11-2023
+296,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Seated Dip Machine,,2,normal,60.0,12,,3,11,2023,11-2023
+297,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Seated Dip Machine,,3,normal,60.0,10,,3,11,2023,11-2023
+298,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Seated Shoulder Press (Machine),,1,normal,40.0,12,,3,11,2023,11-2023
+299,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Seated Shoulder Press (Machine),,2,normal,40.0,12,,3,11,2023,11-2023
+300,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Seated Shoulder Press (Machine),,3,normal,40.0,10,,3,11,2023,11-2023
+301,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Lateral Raise (Cable),,1,normal,10.0,12,,3,11,2023,11-2023
+302,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Lateral Raise (Cable),,2,normal,10.0,10,,3,11,2023,11-2023
+303,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Lateral Raise (Cable),,3,normal,10.0,10,,3,11,2023,11-2023
+304,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Triceps Pushdown,,1,normal,45.0,12,,3,11,2023,11-2023
+305,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Triceps Pushdown,,2,normal,45.0,12,,3,11,2023,11-2023
+306,Pecho-tríceps,2023-11-03 11:39:00,2023-11-03 12:59:00,Triceps Pushdown,,3,normal,45.0,12,,3,11,2023,11-2023
+307,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Pull Up,,1,normal,,6,,30,10,2023,10-2023
+308,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Pull Up,,2,normal,,5,,30,10,2023,10-2023
+309,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Pull Up,,3,normal,,4,,30,10,2023,10-2023
+310,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Chin Up,,1,normal,,6,,30,10,2023,10-2023
+311,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Chin Up,,2,normal,,5,,30,10,2023,10-2023
+312,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Chin Up,,3,normal,,4,,30,10,2023,10-2023
+313,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Lat Pulldown (Cable),,1,normal,50.0,12,,30,10,2023,10-2023
+314,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Lat Pulldown (Cable),,2,normal,50.0,12,,30,10,2023,10-2023
+315,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Lat Pulldown (Cable),,3,normal,50.0,11,,30,10,2023,10-2023
+316,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Chin Ups (Cable),,1,normal,55.0,12,,30,10,2023,10-2023
+317,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Chin Ups (Cable),,2,normal,55.0,11,,30,10,2023,10-2023
+318,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Chin Ups (Cable),,3,normal,55.0,11,,30,10,2023,10-2023
+319,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,30,10,2023,10-2023
+320,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,30,10,2023,10-2023
+321,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,30,10,2023,10-2023
+322,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,EZ Bar Biceps Curl,,1,normal,18.0,12,,30,10,2023,10-2023
+323,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,EZ Bar Biceps Curl,,2,normal,18.0,12,,30,10,2023,10-2023
+324,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,EZ Bar Biceps Curl,,3,normal,18.0,12,,30,10,2023,10-2023
+325,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Iso-Lateral Row (Machine),,1,normal,15.9,7,,30,10,2023,10-2023
+326,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Iso-Lateral Row (Machine),,2,normal,13.8,12,,30,10,2023,10-2023
+327,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Iso-Lateral Row (Machine),,3,normal,13.8,11,,30,10,2023,10-2023
+328,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Shrug (Dumbbell),,1,normal,13.0,12,,30,10,2023,10-2023
+329,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Shrug (Dumbbell),,2,normal,13.0,12,,30,10,2023,10-2023
+330,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Shrug (Dumbbell),,3,normal,13.0,12,,30,10,2023,10-2023
+331,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Face Pull,,1,normal,35.0,12,,30,10,2023,10-2023
+332,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Face Pull,,2,normal,35.0,12,,30,10,2023,10-2023
+333,Espalda-Bíceps,2023-10-30 10:53:00,2023-10-30 12:23:00,Face Pull,,3,normal,35.0,12,,30,10,2023,10-2023
+334,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Bench Press (Barbell),,1,normal,56.8,11,,27,10,2023,10-2023
+335,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Bench Press (Barbell),,2,normal,56.8,10,,27,10,2023,10-2023
+336,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Bench Press (Barbell),,3,normal,56.8,9,,27,10,2023,10-2023
+337,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Iso-Lateral Chest Press (Machine),,1,normal,36.8,12,,27,10,2023,10-2023
+338,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Iso-Lateral Chest Press (Machine),,2,normal,36.8,12,,27,10,2023,10-2023
+339,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Iso-Lateral Chest Press (Machine),,3,normal,36.8,10,,27,10,2023,10-2023
+340,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Cable Fly Crossovers,,1,normal,20.0,8,,27,10,2023,10-2023
+341,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Cable Fly Crossovers,,2,normal,15.0,12,,27,10,2023,10-2023
+342,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Cable Fly Crossovers,,3,normal,15.0,8,,27,10,2023,10-2023
+343,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Seated Dip Machine,,1,normal,60.0,12,,27,10,2023,10-2023
+344,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Seated Dip Machine,,2,normal,60.0,12,,27,10,2023,10-2023
+345,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Seated Dip Machine,,3,normal,65.0,10,,27,10,2023,10-2023
+346,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Seated Shoulder Press (Machine),,1,normal,40.0,12,,27,10,2023,10-2023
+347,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Seated Shoulder Press (Machine),,2,normal,40.0,12,,27,10,2023,10-2023
+348,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Seated Shoulder Press (Machine),,3,normal,40.0,10,,27,10,2023,10-2023
+349,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Lateral Raise (Cable),,1,normal,10.0,12,,27,10,2023,10-2023
+350,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Lateral Raise (Cable),,2,normal,10.0,12,,27,10,2023,10-2023
+351,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Lateral Raise (Cable),,3,normal,10.0,12,,27,10,2023,10-2023
+352,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Triceps Pushdown,,1,normal,50.0,8,,27,10,2023,10-2023
+353,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Triceps Pushdown,,2,normal,45.0,10,,27,10,2023,10-2023
+354,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Triceps Pushdown,,3,normal,45.0,10,,27,10,2023,10-2023
+355,Pecho-tríceps,2023-10-27 11:15:00,2023-10-27 12:48:00,Treadmill,,1,normal,,1,900.0,27,10,2023,10-2023
+356,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Pull Up,,1,normal,,5,,26,10,2023,10-2023
+357,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Pull Up,,2,normal,,4,,26,10,2023,10-2023
+358,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Pull Up,,3,normal,,4,,26,10,2023,10-2023
+359,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Chin Up,,1,normal,,6,,26,10,2023,10-2023
+360,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Chin Up,,2,normal,,5,,26,10,2023,10-2023
+361,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Chin Up,,3,normal,,4,,26,10,2023,10-2023
+362,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Inverted Row,,2,normal,,12,,26,10,2023,10-2023
+363,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Inverted Row,,3,normal,,11,,26,10,2023,10-2023
+364,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Inverted Row,,4,normal,,10,,26,10,2023,10-2023
+365,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Inverted Row,,5,normal,,20,,26,10,2023,10-2023
+366,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Inverted Row,,6,normal,,10,,26,10,2023,10-2023
+367,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Lat Pulldown (Cable),,1,normal,50.0,12,,26,10,2023,10-2023
+368,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Lat Pulldown (Cable),,2,normal,50.0,12,,26,10,2023,10-2023
+369,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Lat Pulldown (Cable),,3,normal,50.0,11,,26,10,2023,10-2023
+370,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Chin Ups (Cable),,1,normal,55.0,12,,26,10,2023,10-2023
+371,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Chin Ups (Cable),,2,normal,55.0,11,,26,10,2023,10-2023
+372,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Chin Ups (Cable),,3,normal,55.0,9,,26,10,2023,10-2023
+373,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,26,10,2023,10-2023
+374,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,26,10,2023,10-2023
+375,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,26,10,2023,10-2023
+376,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,EZ Bar Biceps Curl,,1,normal,18.0,12,,26,10,2023,10-2023
+377,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,EZ Bar Biceps Curl,,2,normal,18.0,10,,26,10,2023,10-2023
+378,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,EZ Bar Biceps Curl,,3,normal,18.0,9,,26,10,2023,10-2023
+379,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Iso-Lateral Row (Machine),,1,normal,13.8,12,,26,10,2023,10-2023
+380,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Iso-Lateral Row (Machine),,2,normal,13.8,12,,26,10,2023,10-2023
+381,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Iso-Lateral Row (Machine),,3,normal,13.8,12,,26,10,2023,10-2023
+382,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Shrug (Dumbbell),,1,normal,13.0,12,,26,10,2023,10-2023
+383,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Shrug (Dumbbell),,2,normal,13.0,12,,26,10,2023,10-2023
+384,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Shrug (Dumbbell),,3,normal,13.0,12,,26,10,2023,10-2023
+385,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Face Pull,,1,normal,35.0,12,,26,10,2023,10-2023
+386,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Face Pull,,2,normal,35.0,12,,26,10,2023,10-2023
+387,Espalda-Bíceps,2023-10-26 10:46:00,2023-10-26 12:29:00,Face Pull,,3,normal,35.0,12,,26,10,2023,10-2023
+388,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Bench Press (Barbell),,1,normal,56.8,10,,25,10,2023,10-2023
+389,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Bench Press (Barbell),,2,normal,56.8,9,,25,10,2023,10-2023
+390,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Bench Press (Barbell),,3,normal,56.8,8,,25,10,2023,10-2023
+391,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Iso-Lateral Chest Press (Machine),,1,normal,36.8,12,,25,10,2023,10-2023
+392,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Iso-Lateral Chest Press (Machine),,2,normal,36.8,10,,25,10,2023,10-2023
+393,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Iso-Lateral Chest Press (Machine),,3,normal,36.8,10,,25,10,2023,10-2023
+394,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Cable Fly Crossovers,,1,normal,15.0,12,,25,10,2023,10-2023
+395,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Cable Fly Crossovers,,2,normal,15.0,12,,25,10,2023,10-2023
+396,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Cable Fly Crossovers,,3,normal,15.0,12,,25,10,2023,10-2023
+397,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Seated Dip Machine,,1,normal,60.0,12,,25,10,2023,10-2023
+398,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Seated Dip Machine,,2,normal,60.0,10,,25,10,2023,10-2023
+399,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Seated Dip Machine,,3,normal,60.0,9,,25,10,2023,10-2023
+400,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Seated Shoulder Press (Machine),,1,normal,40.0,12,,25,10,2023,10-2023
+401,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Seated Shoulder Press (Machine),,2,normal,40.0,10,,25,10,2023,10-2023
+402,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Seated Shoulder Press (Machine),,3,normal,40.0,8,,25,10,2023,10-2023
+403,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Lateral Raise (Cable),,1,normal,10.0,12,,25,10,2023,10-2023
+404,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Lateral Raise (Cable),,2,normal,10.0,12,,25,10,2023,10-2023
+405,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Lateral Raise (Cable),,3,normal,10.0,10,,25,10,2023,10-2023
+406,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Triceps Pushdown,,1,normal,45.0,12,,25,10,2023,10-2023
+407,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Triceps Pushdown,,2,normal,50.0,9,,25,10,2023,10-2023
+408,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Triceps Pushdown,,3,normal,45.0,10,,25,10,2023,10-2023
+409,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Cable Overhead (Extensión De Triceps),,1,normal,20.0,12,,25,10,2023,10-2023
+410,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Cable Overhead (Extensión De Triceps),,2,normal,20.0,10,,25,10,2023,10-2023
+411,Pecho-tríceps,2023-10-25 11:41:00,2023-10-25 12:59:00,Cable Overhead (Extensión De Triceps),,3,normal,20.0,9,,25,10,2023,10-2023
+412,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Pull Up,,1,normal,,5,,23,10,2023,10-2023
+413,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Pull Up,,2,normal,,4,,23,10,2023,10-2023
+414,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Pull Up,,3,normal,,3,,23,10,2023,10-2023
+415,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Chin Up,,1,normal,,6,,23,10,2023,10-2023
+416,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Chin Up,,2,normal,,5,,23,10,2023,10-2023
+417,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Chin Up,,3,normal,,4,,23,10,2023,10-2023
+418,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Lat Pulldown (Cable),,1,normal,50.0,12,,23,10,2023,10-2023
+419,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Lat Pulldown (Cable),,2,normal,50.0,12,,23,10,2023,10-2023
+420,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Lat Pulldown (Cable),,3,normal,50.0,11,,23,10,2023,10-2023
+421,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Chin Ups (Cable),,1,normal,55.0,10,,23,10,2023,10-2023
+422,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Chin Ups (Cable),,2,normal,55.0,9,,23,10,2023,10-2023
+423,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Chin Ups (Cable),,3,normal,55.0,8,,23,10,2023,10-2023
+424,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,23,10,2023,10-2023
+425,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,23,10,2023,10-2023
+426,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,23,10,2023,10-2023
+427,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,EZ Bar Biceps Curl,,1,normal,18.0,12,,23,10,2023,10-2023
+428,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,EZ Bar Biceps Curl,,2,normal,18.0,8,,23,10,2023,10-2023
+429,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,EZ Bar Biceps Curl,,3,normal,18.0,8,,23,10,2023,10-2023
+430,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Dumbbell Row,,1,normal,12.0,12,,23,10,2023,10-2023
+431,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Dumbbell Row,,2,normal,12.0,12,,23,10,2023,10-2023
+432,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Dumbbell Row,,3,normal,12.0,12,,23,10,2023,10-2023
+433,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Face Pull,,1,normal,35.0,12,,23,10,2023,10-2023
+434,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Face Pull,,2,normal,35.0,12,,23,10,2023,10-2023
+435,Espalda-Bíceps,2023-10-23 11:26:00,2023-10-23 12:44:00,Face Pull,,3,normal,35.0,12,,23,10,2023,10-2023
+436,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Pull Up,,1,normal,,4,,20,10,2023,10-2023
+437,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Pull Up,,2,normal,,4,,20,10,2023,10-2023
+438,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Pull Up,,3,normal,,2,,20,10,2023,10-2023
+439,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Chin Up,,1,normal,,6,,20,10,2023,10-2023
+440,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Chin Up,,2,normal,,5,,20,10,2023,10-2023
+441,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Chin Up,,3,normal,,3,,20,10,2023,10-2023
+442,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Lat Pulldown (Cable),,1,normal,50.0,12,,20,10,2023,10-2023
+443,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Lat Pulldown (Cable),,2,normal,50.0,12,,20,10,2023,10-2023
+444,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Lat Pulldown (Cable),,3,normal,50.0,10,,20,10,2023,10-2023
+445,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Chin Ups (Cable),,1,normal,55.0,10,,20,10,2023,10-2023
+446,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Chin Ups (Cable),,2,normal,55.0,9,,20,10,2023,10-2023
+447,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Chin Ups (Cable),,3,normal,55.0,8,,20,10,2023,10-2023
+448,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,20,10,2023,10-2023
+449,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,20,10,2023,10-2023
+450,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,20,10,2023,10-2023
+451,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,EZ Bar Biceps Curl,,1,normal,18.0,12,,20,10,2023,10-2023
+452,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,EZ Bar Biceps Curl,,2,normal,18.0,8,,20,10,2023,10-2023
+453,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,EZ Bar Biceps Curl,,3,normal,18.0,8,,20,10,2023,10-2023
+454,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Dumbbell Row,,1,normal,12.0,12,,20,10,2023,10-2023
+455,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Dumbbell Row,,2,normal,12.0,12,,20,10,2023,10-2023
+456,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Dumbbell Row,,3,normal,12.0,12,,20,10,2023,10-2023
+457,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Face Pull,,1,normal,35.0,12,,20,10,2023,10-2023
+458,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Face Pull,,2,normal,35.0,12,,20,10,2023,10-2023
+459,Espalda-Bíceps,2023-10-20 12:12:00,2023-10-20 13:19:00,Face Pull,,3,normal,35.0,12,,20,10,2023,10-2023
+460,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Bench Press (Barbell),,1,normal,56.8,10,,19,10,2023,10-2023
+461,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Bench Press (Barbell),,2,normal,56.8,9,,19,10,2023,10-2023
+462,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Bench Press (Barbell),,3,normal,56.8,7,,19,10,2023,10-2023
+463,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Iso-Lateral Chest Press (Machine),,1,normal,36.8,12,,19,10,2023,10-2023
+464,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Iso-Lateral Chest Press (Machine),,2,normal,36.8,12,,19,10,2023,10-2023
+465,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Iso-Lateral Chest Press (Machine),,3,normal,36.8,12,,19,10,2023,10-2023
+466,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Cable Fly Crossovers,,1,normal,15.0,12,,19,10,2023,10-2023
+467,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Cable Fly Crossovers,,2,normal,15.0,12,,19,10,2023,10-2023
+468,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Cable Fly Crossovers,,3,normal,15.0,12,,19,10,2023,10-2023
+469,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Seated Dip Machine,,1,normal,60.0,12,,19,10,2023,10-2023
+470,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Seated Dip Machine,,2,normal,60.0,11,,19,10,2023,10-2023
+471,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Seated Dip Machine,,3,normal,60.0,9,,19,10,2023,10-2023
+472,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Seated Shoulder Press (Machine),,1,normal,40.0,12,,19,10,2023,10-2023
+473,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Seated Shoulder Press (Machine),,2,normal,40.0,10,,19,10,2023,10-2023
+474,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Seated Shoulder Press (Machine),,3,normal,40.0,8,,19,10,2023,10-2023
+475,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Lateral Raise (Cable),,1,normal,10.0,12,,19,10,2023,10-2023
+476,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Lateral Raise (Cable),,2,normal,10.0,10,,19,10,2023,10-2023
+477,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Lateral Raise (Cable),,3,normal,10.0,10,,19,10,2023,10-2023
+478,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Triceps Pushdown,,1,normal,40.0,12,,19,10,2023,10-2023
+479,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Triceps Pushdown,,2,normal,45.0,11,,19,10,2023,10-2023
+480,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Triceps Pushdown,,3,normal,45.0,9,,19,10,2023,10-2023
+481,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Cable Overhead (Extensión De Triceps),,1,normal,20.0,12,,19,10,2023,10-2023
+482,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Cable Overhead (Extensión De Triceps),,2,normal,20.0,10,,19,10,2023,10-2023
+483,Pecho-tríceps,2023-10-19 11:52:00,2023-10-19 13:07:00,Cable Overhead (Extensión De Triceps),,3,normal,20.0,9,,19,10,2023,10-2023
+484,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Chin Up,,1,normal,,7,,17,10,2023,10-2023
+485,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Chin Up,,2,normal,,6,,17,10,2023,10-2023
+486,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Chin Up,,3,normal,,5,,17,10,2023,10-2023
+487,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Negative Pull Up,,1,normal,,4,,17,10,2023,10-2023
+488,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Inverted Row,,1,normal,,20,,17,10,2023,10-2023
+489,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Lat Pulldown (Cable),,1,normal,50.0,12,,17,10,2023,10-2023
+490,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Lat Pulldown (Cable),,2,normal,50.0,12,,17,10,2023,10-2023
+491,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Lat Pulldown (Cable),,3,normal,50.0,10,,17,10,2023,10-2023
+492,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Chin Ups (Cable),,1,normal,55.0,10,,17,10,2023,10-2023
+493,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Chin Ups (Cable),,2,normal,55.0,9,,17,10,2023,10-2023
+494,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Chin Ups (Cable),,3,normal,55.0,8,,17,10,2023,10-2023
+495,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Pull Up,,1,normal,,2,,17,10,2023,10-2023
+496,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Pull Up,,2,normal,,2,,17,10,2023,10-2023
+497,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,17,10,2023,10-2023
+498,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,17,10,2023,10-2023
+499,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,17,10,2023,10-2023
+500,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,EZ Bar Biceps Curl,,1,normal,18.0,12,,17,10,2023,10-2023
+501,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,EZ Bar Biceps Curl,,2,normal,18.0,8,,17,10,2023,10-2023
+502,Espalda-Bíceps,2023-10-17 11:46:00,2023-10-17 12:49:00,EZ Bar Biceps Curl,,3,normal,18.0,5,,17,10,2023,10-2023
+503,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Bench Press (Barbell),,1,normal,56.8,9,,10,10,2023,10-2023
+504,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Bench Press (Barbell),,2,normal,56.8,10,,10,10,2023,10-2023
+505,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Bench Press (Barbell),,3,normal,56.8,8,,10,10,2023,10-2023
+506,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Iso-Lateral Chest Press (Machine),,1,normal,36.8,12,,10,10,2023,10-2023
+507,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Iso-Lateral Chest Press (Machine),,2,normal,36.8,12,,10,10,2023,10-2023
+508,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Iso-Lateral Chest Press (Machine),,3,normal,36.8,12,,10,10,2023,10-2023
+509,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Cable Fly Crossovers,,1,normal,15.0,12,,10,10,2023,10-2023
+510,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Cable Fly Crossovers,,2,normal,15.0,12,,10,10,2023,10-2023
+511,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Cable Fly Crossovers,,3,normal,15.0,12,,10,10,2023,10-2023
+512,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Seated Dip Machine,,1,normal,55.0,12,,10,10,2023,10-2023
+513,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Seated Dip Machine,,2,normal,60.0,12,,10,10,2023,10-2023
+514,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Seated Dip Machine,,3,normal,60.0,10,,10,10,2023,10-2023
+515,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Seated Shoulder Press (Machine),,1,normal,40.0,12,,10,10,2023,10-2023
+516,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Seated Shoulder Press (Machine),,2,normal,40.0,10,,10,10,2023,10-2023
+517,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Seated Shoulder Press (Machine),,3,normal,40.0,8,,10,10,2023,10-2023
+518,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Lateral Raise (Cable),,1,normal,10.0,12,,10,10,2023,10-2023
+519,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Lateral Raise (Cable),,2,normal,10.0,12,,10,10,2023,10-2023
+520,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Lateral Raise (Cable),,3,normal,10.0,10,,10,10,2023,10-2023
+521,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Triceps Pushdown,,1,normal,40.0,12,,10,10,2023,10-2023
+522,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Triceps Pushdown,,2,normal,40.0,12,,10,10,2023,10-2023
+523,Pecho-tríceps,2023-10-10 11:10:00,2023-10-10 12:37:00,Triceps Pushdown,,3,normal,40.0,12,,10,10,2023,10-2023
+524,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Chin Up,,1,normal,,8,,9,10,2023,10-2023
+525,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Chin Up,,2,normal,,6,,9,10,2023,10-2023
+526,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Chin Up,,3,normal,,5,,9,10,2023,10-2023
+527,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Inverted Row,,2,normal,,17,,9,10,2023,10-2023
+528,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Inverted Row,,3,normal,,11,,9,10,2023,10-2023
+529,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Inverted Row,,4,normal,,20,,9,10,2023,10-2023
+530,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Inverted Row,,5,normal,,10,,9,10,2023,10-2023
+531,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Lat Pulldown (Cable),,1,normal,50.0,12,,9,10,2023,10-2023
+532,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Lat Pulldown (Cable),,2,normal,50.0,12,,9,10,2023,10-2023
+533,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Lat Pulldown (Cable),,3,normal,50.0,10,,9,10,2023,10-2023
+534,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Chin Ups (Cable),,1,normal,55.0,11,,9,10,2023,10-2023
+535,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Chin Ups (Cable),,2,normal,55.0,9,,9,10,2023,10-2023
+536,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Chin Ups (Cable),,3,normal,55.0,8,,9,10,2023,10-2023
+537,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,9,10,2023,10-2023
+538,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,9,10,2023,10-2023
+539,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,9,10,2023,10-2023
+540,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,EZ Bar Biceps Curl,,1,normal,13.0,12,,9,10,2023,10-2023
+541,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,EZ Bar Biceps Curl,,2,normal,13.0,12,,9,10,2023,10-2023
+542,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,EZ Bar Biceps Curl,,3,normal,16.0,12,,9,10,2023,10-2023
+543,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Dumbbell Row,,1,normal,13.0,12,,9,10,2023,10-2023
+544,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Dumbbell Row,,2,normal,13.0,12,,9,10,2023,10-2023
+545,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Dumbbell Row,,3,normal,13.0,12,,9,10,2023,10-2023
+546,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Shrug (Dumbbell),,1,normal,13.0,12,,9,10,2023,10-2023
+547,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Shrug (Dumbbell),,2,normal,13.0,12,,9,10,2023,10-2023
+548,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Shrug (Dumbbell),,3,normal,13.0,12,,9,10,2023,10-2023
+549,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Face Pull,,1,normal,35.0,12,,9,10,2023,10-2023
+550,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Face Pull,,2,normal,35.0,12,,9,10,2023,10-2023
+551,Espalda-Bíceps,2023-10-09 11:13:00,2023-10-09 12:44:00,Face Pull,,3,normal,35.0,12,,9,10,2023,10-2023
+552,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Bench Press (Barbell),,1,normal,54.3,12,,6,10,2023,10-2023
+553,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Bench Press (Barbell),,2,normal,54.3,10,,6,10,2023,10-2023
+554,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Bench Press (Barbell),,3,normal,54.3,9,,6,10,2023,10-2023
+555,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Iso-Lateral Chest Press (Machine),,1,normal,36.8,12,,6,10,2023,10-2023
+556,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Iso-Lateral Chest Press (Machine),,2,normal,36.8,9,,6,10,2023,10-2023
+557,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Iso-Lateral Chest Press (Machine),,3,normal,36.8,8,,6,10,2023,10-2023
+558,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Cable Fly Crossovers,,1,normal,15.0,12,,6,10,2023,10-2023
+559,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Cable Fly Crossovers,,2,normal,15.0,12,,6,10,2023,10-2023
+560,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Cable Fly Crossovers,,3,normal,15.0,12,,6,10,2023,10-2023
+561,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Seated Dip Machine,,1,normal,55.0,12,,6,10,2023,10-2023
+562,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Seated Dip Machine,,2,normal,55.0,12,,6,10,2023,10-2023
+563,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Seated Dip Machine,,3,normal,55.0,11,,6,10,2023,10-2023
+564,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Seated Shoulder Press (Machine),,1,normal,35.0,12,,6,10,2023,10-2023
+565,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Seated Shoulder Press (Machine),,2,normal,35.0,12,,6,10,2023,10-2023
+566,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Seated Shoulder Press (Machine),,3,normal,35.0,12,,6,10,2023,10-2023
+567,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Lateral Raise (Cable),,1,normal,10.0,12,,6,10,2023,10-2023
+568,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Lateral Raise (Cable),,2,normal,10.0,10,,6,10,2023,10-2023
+569,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Lateral Raise (Cable),,3,normal,5.0,12,,6,10,2023,10-2023
+570,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Triceps Pushdown,,1,normal,40.0,12,,6,10,2023,10-2023
+571,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Triceps Pushdown,,2,normal,40.0,12,,6,10,2023,10-2023
+572,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Triceps Pushdown,,3,normal,40.0,12,,6,10,2023,10-2023
+573,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Cable Overhead (Extensión De Triceps),,1,normal,15.0,12,,6,10,2023,10-2023
+574,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Cable Overhead (Extensión De Triceps),,2,normal,15.0,12,,6,10,2023,10-2023
+575,Pecho-tríceps,2023-10-06 11:47:00,2023-10-06 12:47:00,Cable Overhead (Extensión De Triceps),,3,normal,15.0,12,,6,10,2023,10-2023
+576,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Chin Up,,1,normal,,7,,5,10,2023,10-2023
+577,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Chin Up,,2,normal,,6,,5,10,2023,10-2023
+578,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Chin Up,,3,normal,,4,,5,10,2023,10-2023
+579,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Inverted Row,,2,normal,,17,,5,10,2023,10-2023
+580,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Inverted Row,,3,normal,,11,,5,10,2023,10-2023
+581,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Lat Pulldown (Cable),,1,normal,50.0,11,,5,10,2023,10-2023
+582,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Lat Pulldown (Cable),,2,normal,50.0,9,,5,10,2023,10-2023
+583,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Lat Pulldown (Cable),,3,normal,45.0,10,,5,10,2023,10-2023
+584,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Chin Ups (Cable),,1,normal,50.0,12,,5,10,2023,10-2023
+585,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Chin Ups (Cable),,2,normal,50.0,12,,5,10,2023,10-2023
+586,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Chin Ups (Cable),,3,normal,50.0,10,,5,10,2023,10-2023
+587,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,5,10,2023,10-2023
+588,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,5,10,2023,10-2023
+589,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Seated Cable Row - Bar Grip,,3,normal,40.0,11,,5,10,2023,10-2023
+590,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,EZ Bar Biceps Curl,,1,normal,13.0,12,,5,10,2023,10-2023
+591,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,EZ Bar Biceps Curl,,2,normal,13.0,12,,5,10,2023,10-2023
+592,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,EZ Bar Biceps Curl,,3,normal,13.0,12,,5,10,2023,10-2023
+593,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Dumbbell Row,,1,normal,13.0,12,,5,10,2023,10-2023
+594,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Dumbbell Row,,2,normal,13.0,12,,5,10,2023,10-2023
+595,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Dumbbell Row,,3,normal,13.0,12,,5,10,2023,10-2023
+596,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Face Pull,,1,normal,35.0,12,,5,10,2023,10-2023
+597,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Face Pull,,2,normal,35.0,12,,5,10,2023,10-2023
+598,Espalda-Bíceps,2023-10-05 11:14:00,2023-10-05 12:46:00,Face Pull,,3,normal,35.0,12,,5,10,2023,10-2023
+599,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Bench Press (Barbell),,1,normal,51.8,12,,4,10,2023,10-2023
+600,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Bench Press (Barbell),,2,normal,51.8,11,,4,10,2023,10-2023
+601,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Bench Press (Barbell),,3,normal,51.8,6,,4,10,2023,10-2023
+602,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Iso-Lateral Chest Press (Machine),,1,normal,36.8,12,,4,10,2023,10-2023
+603,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Iso-Lateral Chest Press (Machine),,2,normal,36.8,12,,4,10,2023,10-2023
+604,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Iso-Lateral Chest Press (Machine),,3,normal,36.8,10,,4,10,2023,10-2023
+605,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Cable Fly Crossovers,,1,normal,15.0,12,,4,10,2023,10-2023
+606,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Cable Fly Crossovers,,2,normal,15.0,12,,4,10,2023,10-2023
+607,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Cable Fly Crossovers,,3,normal,15.0,12,,4,10,2023,10-2023
+608,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Seated Dip Machine,,1,normal,55.0,12,,4,10,2023,10-2023
+609,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Seated Dip Machine,,2,normal,55.0,12,,4,10,2023,10-2023
+610,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Seated Dip Machine,,3,normal,55.0,11,,4,10,2023,10-2023
+611,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Lateral Raise (Cable),,1,normal,10.0,10,,4,10,2023,10-2023
+612,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Lateral Raise (Cable),,2,normal,10.0,10,,4,10,2023,10-2023
+613,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Lateral Raise (Cable),,3,normal,10.0,10,,4,10,2023,10-2023
+614,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Triceps Pushdown,,1,normal,40.0,12,,4,10,2023,10-2023
+615,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Triceps Pushdown,,2,normal,40.0,12,,4,10,2023,10-2023
+616,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Triceps Pushdown,,3,normal,40.0,12,,4,10,2023,10-2023
+617,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Cable Overhead (Extensión De Triceps),,1,normal,15.0,12,,4,10,2023,10-2023
+618,Pecho-tríceps,2023-10-04 10:58:00,2023-10-04 11:51:00,Cable Overhead (Extensión De Triceps),,2,normal,20.0,9,,4,10,2023,10-2023
+619,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,Chin Up,,1,normal,,6,,3,10,2023,10-2023
+620,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,Chin Up,,2,normal,,6,,3,10,2023,10-2023
+621,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,Chin Up,,3,normal,,4,,3,10,2023,10-2023
+622,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,Inverted Row,"3/10 al fallo = 20
++40% = 28 en total
++50% = 30 en total+40% = 28 en total+50% = 30 en total",1,normal,,20,,3,10,2023,10-2023
+623,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,Lat Pulldown (Cable),,1,normal,50.0,12,,3,10,2023,10-2023
+624,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,Lat Pulldown (Cable),,2,normal,50.0,10,,3,10,2023,10-2023
+625,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,Lat Pulldown (Cable),,3,normal,45.0,12,,3,10,2023,10-2023
+626,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,Chin Ups (Cable),,1,normal,50.0,12,,3,10,2023,10-2023
+627,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,Chin Ups (Cable),,2,normal,50.0,12,,3,10,2023,10-2023
+628,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,Chin Ups (Cable),,3,normal,50.0,8,,3,10,2023,10-2023
+629,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,EZ Bar Biceps Curl,,1,normal,13.0,12,,3,10,2023,10-2023
+630,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,EZ Bar Biceps Curl,,2,normal,13.0,12,,3,10,2023,10-2023
+631,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,EZ Bar Biceps Curl,,3,normal,13.0,10,,3,10,2023,10-2023
+632,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,Dumbbell Row,,1,normal,13.0,12,,3,10,2023,10-2023
+633,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,Dumbbell Row,,2,normal,13.0,12,,3,10,2023,10-2023
+634,Espalda-Bíceps,2023-10-03 11:05:00,2023-10-03 12:05:00,Dumbbell Row,,3,normal,13.0,12,,3,10,2023,10-2023
+635,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Chin Up,,1,normal,,6,,29,9,2023,09-2023
+636,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Chin Up,,2,normal,,5,,29,9,2023,09-2023
+637,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Chin Up,,3,normal,,2,,29,9,2023,09-2023
+638,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Inverted Row,,1,normal,,15,,29,9,2023,09-2023
+639,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Inverted Row,,2,normal,,9,,29,9,2023,09-2023
+640,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Lat Pulldown (Cable),,1,normal,50.0,11,,29,9,2023,09-2023
+641,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Lat Pulldown (Cable),,2,normal,45.0,12,,29,9,2023,09-2023
+642,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Lat Pulldown (Cable),,3,normal,45.0,12,,29,9,2023,09-2023
+643,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Chin Ups (Cable),,1,normal,50.0,12,,29,9,2023,09-2023
+644,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Chin Ups (Cable),,2,normal,50.0,8,,29,9,2023,09-2023
+645,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Chin Ups (Cable),,3,normal,45.0,12,,29,9,2023,09-2023
+646,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Seated Cable Row - Bar Grip,,1,normal,35.0,12,,29,9,2023,09-2023
+647,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Seated Cable Row - Bar Grip,,2,normal,35.0,12,,29,9,2023,09-2023
+648,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Seated Cable Row - Bar Grip,,3,normal,40.0,11,,29,9,2023,09-2023
+649,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,EZ Bar Biceps Curl,,1,normal,13.0,12,,29,9,2023,09-2023
+650,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,EZ Bar Biceps Curl,,2,normal,13.0,10,,29,9,2023,09-2023
+651,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,EZ Bar Biceps Curl,,3,normal,12.0,10,,29,9,2023,09-2023
+652,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Dumbbell Row,,1,normal,12.0,12,,29,9,2023,09-2023
+653,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Dumbbell Row,,2,normal,12.0,12,,29,9,2023,09-2023
+654,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Dumbbell Row,,3,normal,12.0,12,,29,9,2023,09-2023
+655,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Hammer Curl (Dumbbell),,1,normal,7.0,9,,29,9,2023,09-2023
+656,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Hammer Curl (Dumbbell),,2,normal,7.0,6,,29,9,2023,09-2023
+657,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Shrug (Dumbbell),,1,normal,12.0,12,,29,9,2023,09-2023
+658,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Shrug (Dumbbell),,2,normal,12.0,12,,29,9,2023,09-2023
+659,Espalda-Bíceps,2023-09-29 11:05:00,2023-09-29 12:25:00,Shrug (Dumbbell),,3,normal,12.0,12,,29,9,2023,09-2023
+660,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Bench Press (Barbell),,1,normal,51.8,12,,28,9,2023,09-2023
+661,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Bench Press (Barbell),,2,normal,51.8,11,,28,9,2023,09-2023
+662,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Bench Press (Barbell),,3,normal,51.8,8,,28,9,2023,09-2023
+663,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Iso-Lateral Chest Press (Machine),,1,normal,31.8,12,,28,9,2023,09-2023
+664,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Iso-Lateral Chest Press (Machine),,2,normal,34.3,11,,28,9,2023,09-2023
+665,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Iso-Lateral Chest Press (Machine),,3,normal,34.3,10,,28,9,2023,09-2023
+666,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Cable Fly Crossovers,,1,normal,15.0,12,,28,9,2023,09-2023
+667,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Cable Fly Crossovers,,2,normal,15.0,12,,28,9,2023,09-2023
+668,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Cable Fly Crossovers,,3,normal,15.0,12,,28,9,2023,09-2023
+669,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Seated Dip Machine,,1,normal,50.0,12,,28,9,2023,09-2023
+670,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Seated Dip Machine,,2,normal,55.0,12,,28,9,2023,09-2023
+671,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Seated Dip Machine,,3,normal,55.0,10,,28,9,2023,09-2023
+672,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Seated Shoulder Press (Machine),,1,normal,35.0,12,,28,9,2023,09-2023
+673,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Seated Shoulder Press (Machine),,2,normal,35.0,11,,28,9,2023,09-2023
+674,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Seated Shoulder Press (Machine),,3,normal,35.0,12,,28,9,2023,09-2023
+675,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Lateral Raise (Cable),,1,normal,5.0,12,,28,9,2023,09-2023
+676,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Lateral Raise (Cable),,2,normal,10.0,10,,28,9,2023,09-2023
+677,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Lateral Raise (Cable),,3,normal,10.0,10,,28,9,2023,09-2023
+678,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Triceps Pushdown,,1,normal,40.0,12,,28,9,2023,09-2023
+679,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Triceps Pushdown,,2,normal,40.0,12,,28,9,2023,09-2023
+680,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Triceps Pushdown,,3,normal,40.0,12,,28,9,2023,09-2023
+681,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Cable Overhead (Extensión De Triceps),,1,normal,15.0,12,,28,9,2023,09-2023
+682,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Cable Overhead (Extensión De Triceps),,2,normal,15.0,12,,28,9,2023,09-2023
+683,Pecho-tríceps,2023-09-28 11:20:00,2023-09-28 12:55:00,Cable Overhead (Extensión De Triceps),,3,normal,20.0,11,,28,9,2023,09-2023
+684,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Chin Up,,1,normal,,5,,26,9,2023,09-2023
+685,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Chin Up,,2,normal,,4,,26,9,2023,09-2023
+686,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Inverted Row,,1,normal,,16,,26,9,2023,09-2023
+687,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Chin Ups (Cable),,1,normal,50.0,7,,26,9,2023,09-2023
+688,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Chin Ups (Cable),,2,normal,45.0,12,,26,9,2023,09-2023
+689,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Chin Ups (Cable),,3,normal,45.0,12,,26,9,2023,09-2023
+690,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Lat Pulldown (Cable),,1,normal,50.0,11,,26,9,2023,09-2023
+691,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Lat Pulldown (Cable),,2,normal,50.0,8,,26,9,2023,09-2023
+692,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Lat Pulldown (Cable),,3,normal,45.0,11,,26,9,2023,09-2023
+693,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Seated Cable Row - Bar Grip,,1,normal,35.0,12,,26,9,2023,09-2023
+694,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Seated Cable Row - Bar Grip,,2,normal,35.0,12,,26,9,2023,09-2023
+695,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Seated Cable Row - Bar Grip,,3,normal,35.0,12,,26,9,2023,09-2023
+696,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Dumbbell Row,,1,normal,12.0,12,,26,9,2023,09-2023
+697,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Dumbbell Row,,2,normal,12.0,12,,26,9,2023,09-2023
+698,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Dumbbell Row,,3,normal,12.0,12,,26,9,2023,09-2023
+699,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Shrug (Dumbbell),,1,normal,12.0,12,,26,9,2023,09-2023
+700,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Shrug (Dumbbell),,2,normal,12.0,12,,26,9,2023,09-2023
+701,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Shrug (Dumbbell),,3,normal,12.0,12,,26,9,2023,09-2023
+702,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Face Pull,,1,normal,35.0,12,,26,9,2023,09-2023
+703,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Face Pull,,2,normal,35.0,12,,26,9,2023,09-2023
+704,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,Face Pull,,3,normal,30.0,12,,26,9,2023,09-2023
+705,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,EZ Bar Biceps Curl,Barra = 8kg,1,normal,13.0,12,,26,9,2023,09-2023
+706,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,EZ Bar Biceps Curl,Barra = 8kg,2,normal,13.0,9,,26,9,2023,09-2023
+707,Espalda-Bíceps,2023-09-26 11:32:00,2023-09-26 12:55:00,EZ Bar Biceps Curl,Barra = 8kg,3,normal,8.0,15,,26,9,2023,09-2023
+708,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Bench Press (Barbell),,1,normal,51.8,12,,25,9,2023,09-2023
+709,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Bench Press (Barbell),,2,normal,51.8,12,,25,9,2023,09-2023
+710,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Bench Press (Barbell),,3,normal,51.8,9,,25,9,2023,09-2023
+711,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Iso-Lateral Chest Press (Machine),,1,normal,31.8,12,,25,9,2023,09-2023
+712,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Iso-Lateral Chest Press (Machine),,2,normal,34.3,11,,25,9,2023,09-2023
+713,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Iso-Lateral Chest Press (Machine),,3,normal,34.3,10,,25,9,2023,09-2023
+714,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Cable Fly Crossovers,,1,normal,15.0,12,,25,9,2023,09-2023
+715,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Cable Fly Crossovers,,2,normal,15.0,12,,25,9,2023,09-2023
+716,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Cable Fly Crossovers,,3,normal,15.0,12,,25,9,2023,09-2023
+717,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Seated Dip Machine,,1,normal,50.0,12,,25,9,2023,09-2023
+718,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Seated Dip Machine,,2,normal,55.0,12,,25,9,2023,09-2023
+719,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Seated Dip Machine,,3,normal,55.0,10,,25,9,2023,09-2023
+720,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Lateral Raise (Cable),,1,normal,7.0,12,,25,9,2023,09-2023
+721,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Lateral Raise (Cable),,2,normal,7.0,12,,25,9,2023,09-2023
+722,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Lateral Raise (Cable),,3,normal,7.0,12,,25,9,2023,09-2023
+723,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Triceps Pushdown,,1,normal,40.0,12,,25,9,2023,09-2023
+724,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Triceps Pushdown,,2,normal,40.0,12,,25,9,2023,09-2023
+725,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Triceps Pushdown,,3,normal,40.0,10,,25,9,2023,09-2023
+726,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Cable Overhead (Extensión De Triceps),,1,normal,15.0,12,,25,9,2023,09-2023
+727,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Cable Overhead (Extensión De Triceps),,2,normal,15.0,12,,25,9,2023,09-2023
+728,Pecho-tríceps,2023-09-25 11:35:00,2023-09-25 12:36:00,Cable Overhead (Extensión De Triceps),,3,normal,15.0,10,,25,9,2023,09-2023
+729,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Hack Squat (Machine),31.8 = 2 de 15.940.8 = 31.8 + 2 de 4.5 kg,1,normal,31.8,12,,22,9,2023,09-2023
+730,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Hack Squat (Machine),31.8 = 2 de 15.940.8 = 31.8 + 2 de 4.5 kg,2,normal,40.8,12,,22,9,2023,09-2023
+731,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Hack Squat (Machine),31.8 = 2 de 15.940.8 = 31.8 + 2 de 4.5 kg,3,normal,40.8,12,,22,9,2023,09-2023
+732,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Leg Extension (Machine),,1,normal,20.0,12,,22,9,2023,09-2023
+733,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Leg Extension (Machine),,2,normal,20.0,12,,22,9,2023,09-2023
+734,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Leg Extension (Machine),,3,normal,20.0,12,,22,9,2023,09-2023
+735,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Reverse Hyperextension,,1,normal,30.0,12,,22,9,2023,09-2023
+736,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Reverse Hyperextension,,2,normal,35.0,14,,22,9,2023,09-2023
+737,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Reverse Hyperextension,,3,normal,35.0,12,,22,9,2023,09-2023
+738,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Standing Calf Raise (Machine),,1,normal,60.0,12,,22,9,2023,09-2023
+739,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Standing Calf Raise (Machine),,2,normal,65.0,12,,22,9,2023,09-2023
+740,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Standing Calf Raise (Machine),,3,normal,65.0,12,,22,9,2023,09-2023
+741,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Standing Cable Glute Kickbacks,,1,normal,15.0,12,,22,9,2023,09-2023
+742,Piernas,2023-09-22 11:35:00,2023-09-22 13:15:00,Standing Cable Glute Kickbacks,,2,normal,15.0,12,,22,9,2023,09-2023
+743,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Bench Press (Barbell),,1,normal,50.0,12,,21,9,2023,09-2023
+744,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Bench Press (Barbell),,2,normal,50.0,12,,21,9,2023,09-2023
+745,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Bench Press (Barbell),,3,normal,50.0,10,,21,9,2023,09-2023
+746,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Iso-Lateral Chest Press (Machine),,1,normal,31.8,12,,21,9,2023,09-2023
+747,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Iso-Lateral Chest Press (Machine),,2,normal,31.8,12,,21,9,2023,09-2023
+748,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Iso-Lateral Chest Press (Machine),,3,normal,31.8,12,,21,9,2023,09-2023
+749,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Cable Fly Crossovers,,1,normal,15.0,12,,21,9,2023,09-2023
+750,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Cable Fly Crossovers,,2,normal,15.0,12,,21,9,2023,09-2023
+751,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Cable Fly Crossovers,,3,normal,15.0,12,,21,9,2023,09-2023
+752,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Seated Dip Machine,,1,normal,50.0,12,,21,9,2023,09-2023
+753,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Seated Dip Machine,,2,normal,50.0,12,,21,9,2023,09-2023
+754,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Seated Dip Machine,,3,normal,50.0,12,,21,9,2023,09-2023
+755,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Seated Shoulder Press (Machine),,1,normal,35.0,11,,21,9,2023,09-2023
+756,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Seated Shoulder Press (Machine),,2,normal,35.0,9,,21,9,2023,09-2023
+757,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Seated Shoulder Press (Machine),,3,normal,30.0,9,,21,9,2023,09-2023
+758,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Lateral Raise (Cable),,1,normal,7.0,12,,21,9,2023,09-2023
+759,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Lateral Raise (Cable),,2,normal,7.0,12,,21,9,2023,09-2023
+760,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Lateral Raise (Cable),,3,normal,7.0,12,,21,9,2023,09-2023
+761,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Triceps Pushdown,,1,normal,35.0,12,,21,9,2023,09-2023
+762,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Triceps Pushdown,,2,normal,35.0,12,,21,9,2023,09-2023
+763,Pecho-tríceps,2023-09-21 11:46:00,2023-09-21 13:16:00,Triceps Pushdown,,3,normal,40.0,9,,21,9,2023,09-2023
+764,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Bicep Curl (Dumbbell),,1,normal,7.0,9,,20,9,2023,09-2023
+765,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Bicep Curl (Dumbbell),,2,normal,7.0,8,,20,9,2023,09-2023
+766,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Bicep Curl (Dumbbell),,3,normal,7.0,5,,20,9,2023,09-2023
+767,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Lat Pulldown (Cable),,1,normal,50.0,11,,20,9,2023,09-2023
+768,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Lat Pulldown (Cable),,2,normal,50.0,9,,20,9,2023,09-2023
+769,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Lat Pulldown (Cable),,3,normal,45.0,12,,20,9,2023,09-2023
+770,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Chin Ups (Cable),,1,normal,50.0,12,,20,9,2023,09-2023
+771,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Chin Ups (Cable),,2,normal,50.0,6,,20,9,2023,09-2023
+772,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Chin Ups (Cable),,3,normal,45.0,12,,20,9,2023,09-2023
+773,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Seated Cable Row - Bar Grip,,1,normal,35.0,12,,20,9,2023,09-2023
+774,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Seated Cable Row - Bar Grip,,2,normal,35.0,12,,20,9,2023,09-2023
+775,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Seated Cable Row - Bar Grip,,3,normal,35.0,12,,20,9,2023,09-2023
+776,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Dumbbell Row,,1,normal,9.5,12,,20,9,2023,09-2023
+777,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Dumbbell Row,,2,normal,11.0,12,,20,9,2023,09-2023
+778,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Shrug (Dumbbell),,1,normal,12.0,12,,20,9,2023,09-2023
+779,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Shrug (Dumbbell),,2,normal,12.0,12,,20,9,2023,09-2023
+780,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Shrug (Dumbbell),,3,normal,12.0,12,,20,9,2023,09-2023
+781,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Face Pull,,1,normal,30.0,12,,20,9,2023,09-2023
+782,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Face Pull,,2,normal,30.0,12,,20,9,2023,09-2023
+783,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Face Pull,,3,normal,35.0,11,,20,9,2023,09-2023
+784,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Pull Up,,1,normal,,2,,20,9,2023,09-2023
+785,Espalda-Bíceps,2023-09-20 11:43:00,2023-09-20 12:57:00,Chin Up,,1,normal,,5,,20,9,2023,09-2023
+786,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Bench Press (Barbell),,1,normal,47.6,12,,18,9,2023,09-2023
+787,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Bench Press (Barbell),,2,normal,47.6,12,,18,9,2023,09-2023
+788,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Bench Press (Barbell),,3,normal,47.6,11,,18,9,2023,09-2023
+789,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Iso-Lateral Chest Press (Machine),,1,normal,31.8,12,,18,9,2023,09-2023
+790,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Iso-Lateral Chest Press (Machine),,2,normal,31.8,12,,18,9,2023,09-2023
+791,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Iso-Lateral Chest Press (Machine),,3,normal,31.8,12,,18,9,2023,09-2023
+792,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Cable Fly Crossovers,,1,normal,15.0,12,,18,9,2023,09-2023
+793,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Cable Fly Crossovers,,2,normal,15.0,12,,18,9,2023,09-2023
+794,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Cable Fly Crossovers,,3,normal,15.0,12,,18,9,2023,09-2023
+795,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Seated Dip Machine,,1,normal,50.0,11,,18,9,2023,09-2023
+796,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Seated Dip Machine,,2,normal,50.0,8,,18,9,2023,09-2023
+797,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Seated Dip Machine,,3,normal,45.0,11,,18,9,2023,09-2023
+798,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Seated Shoulder Press (Machine),,1,normal,30.0,12,,18,9,2023,09-2023
+799,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Seated Shoulder Press (Machine),,2,normal,30.0,10,,18,9,2023,09-2023
+800,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Seated Shoulder Press (Machine),,3,normal,30.0,10,,18,9,2023,09-2023
+801,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Lateral Raise (Cable),,1,normal,7.0,12,,18,9,2023,09-2023
+802,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Lateral Raise (Cable),,2,normal,7.0,12,,18,9,2023,09-2023
+803,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Lateral Raise (Cable),,3,normal,7.0,12,,18,9,2023,09-2023
+804,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Triceps Pushdown,,1,normal,35.0,12,,18,9,2023,09-2023
+805,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Triceps Pushdown,,2,normal,35.0,12,,18,9,2023,09-2023
+806,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Triceps Pushdown,,3,normal,35.0,12,,18,9,2023,09-2023
+807,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Cable Overhead (Extensión De Triceps),,1,normal,15.0,12,,18,9,2023,09-2023
+808,Pecho-tríceps,2023-09-18 11:49:00,2023-09-18 13:14:00,Cable Overhead (Extensión De Triceps),,2,normal,15.0,12,,18,9,2023,09-2023
+809,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Bicep Curl (Dumbbell),,1,normal,7.0,12,,14,9,2023,09-2023
+810,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Bicep Curl (Dumbbell),,2,normal,7.0,5,,14,9,2023,09-2023
+811,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Bicep Curl (Dumbbell),,3,normal,7.0,5,,14,9,2023,09-2023
+812,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Lat Pulldown (Cable),,1,normal,50.0,10,,14,9,2023,09-2023
+813,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Lat Pulldown (Cable),,2,normal,50.0,7,,14,9,2023,09-2023
+814,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Lat Pulldown (Cable),,3,normal,45.0,12,,14,9,2023,09-2023
+815,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Chin Ups (Cable),,1,normal,50.0,7,,14,9,2023,09-2023
+816,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Chin Ups (Cable),,2,normal,45.0,12,,14,9,2023,09-2023
+817,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Chin Ups (Cable),,3,normal,45.0,12,,14,9,2023,09-2023
+818,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Seated Cable Row - Bar Grip,,1,normal,35.0,10,,14,9,2023,09-2023
+819,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Seated Cable Row - Bar Grip,,2,normal,30.0,12,,14,9,2023,09-2023
+820,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Seated Cable Row - Bar Grip,,3,normal,30.0,12,,14,9,2023,09-2023
+821,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Single Arm Cable Row,,1,normal,25.0,12,,14,9,2023,09-2023
+822,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Single Arm Cable Row,,2,normal,25.0,12,,14,9,2023,09-2023
+823,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Single Arm Cable Row,,3,normal,25.0,12,,14,9,2023,09-2023
+824,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Face Pull,,1,normal,25.0,12,,14,9,2023,09-2023
+825,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Face Pull,,2,normal,30.0,12,,14,9,2023,09-2023
+826,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Face Pull,,3,normal,30.0,12,,14,9,2023,09-2023
+827,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Pull Up,,1,normal,,2,,14,9,2023,09-2023
+828,Espalda-Bíceps,2023-09-14 11:31:00,2023-09-14 12:42:00,Chin Up,,1,normal,,3,,14,9,2023,09-2023
+829,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Bench Press (Barbell),,1,normal,45.0,12,,13,9,2023,09-2023
+830,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Bench Press (Barbell),,2,normal,45.0,12,,13,9,2023,09-2023
+831,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Bench Press (Barbell),,3,normal,45.0,12,,13,9,2023,09-2023
+832,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Iso-Lateral Chest Press (Machine),,1,normal,31.8,12,,13,9,2023,09-2023
+833,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Iso-Lateral Chest Press (Machine),,2,normal,31.8,12,,13,9,2023,09-2023
+834,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Iso-Lateral Chest Press (Machine),,3,normal,31.8,11,,13,9,2023,09-2023
+835,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Cable Fly Crossovers,,1,normal,15.0,12,,13,9,2023,09-2023
+836,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Cable Fly Crossovers,,2,normal,15.0,12,,13,9,2023,09-2023
+837,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Cable Fly Crossovers,,3,normal,15.0,11,,13,9,2023,09-2023
+838,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Seated Shoulder Press (Machine),,1,normal,30.0,12,,13,9,2023,09-2023
+839,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Seated Shoulder Press (Machine),,2,normal,30.0,10,,13,9,2023,09-2023
+840,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Seated Shoulder Press (Machine),,3,normal,30.0,12,,13,9,2023,09-2023
+841,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Seated Dip Machine,,1,normal,45.0,12,,13,9,2023,09-2023
+842,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Seated Dip Machine,,2,normal,45.0,12,,13,9,2023,09-2023
+843,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Seated Dip Machine,,3,normal,45.0,12,,13,9,2023,09-2023
+844,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Lateral Raise (Cable),,1,normal,7.0,12,,13,9,2023,09-2023
+845,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Lateral Raise (Cable),,2,normal,7.0,12,,13,9,2023,09-2023
+846,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Lateral Raise (Cable),,3,normal,7.0,12,,13,9,2023,09-2023
+847,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Triceps Pushdown,,1,normal,35.0,12,,13,9,2023,09-2023
+848,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Triceps Pushdown,,2,normal,35.0,12,,13,9,2023,09-2023
+849,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Triceps Pushdown,,3,normal,35.0,12,,13,9,2023,09-2023
+850,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Cable Overhead (Extensión De Triceps),,1,normal,15.0,7,,13,9,2023,09-2023
+851,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Cable Overhead (Extensión De Triceps),,2,normal,10.0,12,,13,9,2023,09-2023
+852,Pecho-tríceps,2023-09-13 11:40:00,2023-09-13 12:56:00,Cable Overhead (Extensión De Triceps),,3,normal,15.0,9,,13,9,2023,09-2023
+853,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Bicep Curl (Dumbbell),,1,normal,7.0,12,,8,9,2023,09-2023
+854,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Bicep Curl (Dumbbell),,2,normal,7.0,12,,8,9,2023,09-2023
+855,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Bicep Curl (Dumbbell),,3,normal,7.0,11,,8,9,2023,09-2023
+856,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Lat Pulldown (Cable),,1,normal,40.0,12,,8,9,2023,09-2023
+857,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Lat Pulldown (Cable),,2,normal,40.0,12,,8,9,2023,09-2023
+858,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Seated Cable Row - Bar Grip,,1,normal,30.0,12,,8,9,2023,09-2023
+859,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Seated Cable Row - Bar Grip,,2,normal,30.0,12,,8,9,2023,09-2023
+860,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Seated Cable Row - Bar Grip,,3,normal,30.0,12,,8,9,2023,09-2023
+861,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Single Arm Cable Row,,1,normal,30.0,12,,8,9,2023,09-2023
+862,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Single Arm Cable Row,,2,normal,25.0,12,,8,9,2023,09-2023
+863,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Single Arm Cable Row,,3,normal,25.0,12,,8,9,2023,09-2023
+864,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Shrug (Dumbbell),,1,normal,12.0,12,,8,9,2023,09-2023
+865,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Shrug (Dumbbell),,2,normal,12.0,12,,8,9,2023,09-2023
+866,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Shrug (Dumbbell),,3,normal,12.0,12,,8,9,2023,09-2023
+867,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Face Pull,,1,normal,30.0,12,,8,9,2023,09-2023
+868,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Face Pull,,2,normal,30.0,12,,8,9,2023,09-2023
+869,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Face Pull,,3,normal,30.0,12,,8,9,2023,09-2023
+870,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Pull Up,,1,normal,,3,,8,9,2023,09-2023
+871,Espalda-Bíceps,2023-09-08 11:53:00,2023-09-08 12:53:00,Chin Up,,1,normal,,2,,8,9,2023,09-2023
+872,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Bicep Curl (Dumbbell),,1,normal,8.0,12,,30,5,2023,05-2023
+873,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Bicep Curl (Dumbbell),,2,normal,8.0,12,,30,5,2023,05-2023
+874,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Bicep Curl (Dumbbell),,3,normal,8.0,12,,30,5,2023,05-2023
+875,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Lat Pulldown (Cable),,1,normal,45.0,12,,30,5,2023,05-2023
+876,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Lat Pulldown (Cable),,2,normal,45.0,12,,30,5,2023,05-2023
+877,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Lat Pulldown (Cable),,3,normal,45.0,12,,30,5,2023,05-2023
+878,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,30,5,2023,05-2023
+879,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,30,5,2023,05-2023
+880,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,30,5,2023,05-2023
+881,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Single Arm Cable Row,,1,normal,30.0,12,,30,5,2023,05-2023
+882,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Single Arm Cable Row,,2,normal,35.0,12,,30,5,2023,05-2023
+883,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Single Arm Cable Row,,3,normal,30.0,12,,30,5,2023,05-2023
+884,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Hammer Curl (Dumbbell),,1,normal,7.0,12,,30,5,2023,05-2023
+885,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Hammer Curl (Dumbbell),,2,normal,7.0,11,,30,5,2023,05-2023
+886,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Hammer Curl (Dumbbell),,3,normal,7.0,9,,30,5,2023,05-2023
+887,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Face Pull,,1,normal,35.0,12,,30,5,2023,05-2023
+888,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Face Pull,,2,normal,35.0,12,,30,5,2023,05-2023
+889,Espalda-Bíceps,2023-05-30 11:15:00,2023-05-30 12:27:00,Face Pull,,3,normal,35.0,12,,30,5,2023,05-2023
+890,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Bench Press (Barbell),,1,normal,52.0,12,,29,5,2023,05-2023
+891,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Bench Press (Barbell),,2,normal,52.0,12,,29,5,2023,05-2023
+892,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Bench Press (Barbell),,3,normal,52.0,10,,29,5,2023,05-2023
+893,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Iso-Lateral Chest Press (Machine),,1,normal,31.8,12,,29,5,2023,05-2023
+894,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Iso-Lateral Chest Press (Machine),,2,normal,36.8,11,,29,5,2023,05-2023
+895,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Iso-Lateral Chest Press (Machine),,3,normal,36.8,10,,29,5,2023,05-2023
+896,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Cable Fly Crossovers,,1,normal,15.0,12,,29,5,2023,05-2023
+897,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Cable Fly Crossovers,,2,normal,15.0,12,,29,5,2023,05-2023
+898,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Cable Fly Crossovers,,3,normal,15.0,10,,29,5,2023,05-2023
+899,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Seated Shoulder Press (Machine),,1,normal,40.0,11,,29,5,2023,05-2023
+900,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Seated Shoulder Press (Machine),,2,normal,40.0,12,,29,5,2023,05-2023
+901,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Seated Shoulder Press (Machine),,3,normal,40.0,12,,29,5,2023,05-2023
+902,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Seated Dip Machine,,1,normal,50.0,12,,29,5,2023,05-2023
+903,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Seated Dip Machine,,2,normal,50.0,12,,29,5,2023,05-2023
+904,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Seated Dip Machine,,3,normal,50.0,12,,29,5,2023,05-2023
+905,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Lateral Raise (Cable),,1,normal,7.0,12,,29,5,2023,05-2023
+906,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Lateral Raise (Cable),,2,normal,7.0,12,,29,5,2023,05-2023
+907,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Lateral Raise (Cable),,3,normal,7.0,12,,29,5,2023,05-2023
+908,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Triceps Pushdown,,1,normal,40.0,12,,29,5,2023,05-2023
+909,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Triceps Pushdown,,2,normal,40.0,12,,29,5,2023,05-2023
+910,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Triceps Pushdown,,3,normal,40.0,12,,29,5,2023,05-2023
+911,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Cable Overhead (Extensión De Triceps),,1,normal,20.0,12,,29,5,2023,05-2023
+912,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Cable Overhead (Extensión De Triceps),,2,normal,20.0,12,,29,5,2023,05-2023
+913,Pecho-tríceps,2023-05-29 11:23:00,2023-05-29 12:33:00,Cable Overhead (Extensión De Triceps),,3,normal,20.0,12,,29,5,2023,05-2023
+914,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Bench Press (Barbell),,1,normal,55.0,12,,22,5,2023,05-2023
+915,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Bench Press (Barbell),,2,normal,55.0,11,,22,5,2023,05-2023
+916,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Bench Press (Barbell),,3,normal,55.0,7,,22,5,2023,05-2023
+917,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Iso-Lateral Chest Press (Machine),,1,normal,31.8,12,,22,5,2023,05-2023
+918,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Iso-Lateral Chest Press (Machine),,2,normal,31.8,12,,22,5,2023,05-2023
+919,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Iso-Lateral Chest Press (Machine),,3,normal,31.8,12,,22,5,2023,05-2023
+920,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Cable Fly Crossovers,,1,normal,15.0,12,,22,5,2023,05-2023
+921,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Cable Fly Crossovers,,2,normal,15.0,12,,22,5,2023,05-2023
+922,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Cable Fly Crossovers,,3,normal,15.0,12,,22,5,2023,05-2023
+923,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Seated Shoulder Press (Machine),,1,normal,35.0,12,,22,5,2023,05-2023
+924,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Seated Shoulder Press (Machine),,2,normal,35.0,12,,22,5,2023,05-2023
+925,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Seated Shoulder Press (Machine),,3,normal,35.0,12,,22,5,2023,05-2023
+926,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Seated Dip Machine,,1,normal,45.0,12,,22,5,2023,05-2023
+927,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Seated Dip Machine,,2,normal,45.0,12,,22,5,2023,05-2023
+928,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Seated Dip Machine,,3,normal,45.0,12,,22,5,2023,05-2023
+929,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Lateral Raise (Cable),,1,normal,5.0,12,,22,5,2023,05-2023
+930,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Lateral Raise (Cable),,2,normal,5.0,12,,22,5,2023,05-2023
+931,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Lateral Raise (Cable),,3,normal,5.0,12,,22,5,2023,05-2023
+932,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Triceps Pushdown,,1,normal,40.0,12,,22,5,2023,05-2023
+933,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Triceps Pushdown,,2,normal,40.0,12,,22,5,2023,05-2023
+934,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Triceps Pushdown,,3,normal,40.0,12,,22,5,2023,05-2023
+935,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Cable Overhead (Extensión De Triceps),,1,normal,15.0,12,,22,5,2023,05-2023
+936,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Cable Overhead (Extensión De Triceps),,2,normal,15.0,12,,22,5,2023,05-2023
+937,Pecho-tríceps,2023-05-22 11:10:00,2023-05-22 12:30:00,Cable Overhead (Extensión De Triceps),,3,normal,15.0,12,,22,5,2023,05-2023
+938,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Bicep Curl (Dumbbell),,1,normal,7.0,12,,19,5,2023,05-2023
+939,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Bicep Curl (Dumbbell),,2,normal,8.0,12,,19,5,2023,05-2023
+940,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Bicep Curl (Dumbbell),,3,normal,8.0,12,,19,5,2023,05-2023
+941,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Lat Pulldown (Cable),,1,normal,40.0,12,,19,5,2023,05-2023
+942,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Lat Pulldown (Cable),,2,normal,40.0,12,,19,5,2023,05-2023
+943,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Lat Pulldown (Cable),,3,normal,40.0,12,,19,5,2023,05-2023
+944,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,19,5,2023,05-2023
+945,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,19,5,2023,05-2023
+946,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,19,5,2023,05-2023
+947,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Single Arm Cable Row,,1,normal,35.0,12,,19,5,2023,05-2023
+948,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Single Arm Cable Row,,2,normal,30.0,12,,19,5,2023,05-2023
+949,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Single Arm Cable Row,,3,normal,30.0,12,,19,5,2023,05-2023
+950,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Hammer Curl (Dumbbell),,1,normal,7.0,12,,19,5,2023,05-2023
+951,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Hammer Curl (Dumbbell),,2,normal,7.0,12,,19,5,2023,05-2023
+952,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Hammer Curl (Dumbbell),,3,normal,7.0,10,,19,5,2023,05-2023
+953,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Shrug (Dumbbell),,1,normal,12.0,12,,19,5,2023,05-2023
+954,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Shrug (Dumbbell),,2,normal,12.0,12,,19,5,2023,05-2023
+955,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Shrug (Dumbbell),,3,normal,12.0,12,,19,5,2023,05-2023
+956,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Face Pull,,1,normal,35.0,12,,19,5,2023,05-2023
+957,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Face Pull,,2,normal,35.0,12,,19,5,2023,05-2023
+958,Espalda-Bíceps,2023-05-19 10:58:00,2023-05-19 12:05:00,Face Pull,,3,normal,35.0,12,,19,5,2023,05-2023
+959,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Bench Press (Barbell),,1,normal,42.6,12,,4,5,2023,05-2023
+960,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Bench Press (Barbell),,2,normal,52.0,12,,4,5,2023,05-2023
+961,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Bench Press (Barbell),,3,normal,52.0,12,,4,5,2023,05-2023
+962,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Iso-Lateral Chest Press (Machine),,1,normal,31.8,12,,4,5,2023,05-2023
+963,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Iso-Lateral Chest Press (Machine),,2,normal,31.8,12,,4,5,2023,05-2023
+964,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Iso-Lateral Chest Press (Machine),,3,normal,31.8,12,,4,5,2023,05-2023
+965,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Cable Fly Crossovers,,1,normal,15.0,12,,4,5,2023,05-2023
+966,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Cable Fly Crossovers,,2,normal,15.0,12,,4,5,2023,05-2023
+967,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Cable Fly Crossovers,,3,normal,15.0,12,,4,5,2023,05-2023
+968,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Seated Shoulder Press (Machine),,1,normal,35.0,12,,4,5,2023,05-2023
+969,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Seated Shoulder Press (Machine),,2,normal,40.0,12,,4,5,2023,05-2023
+970,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Seated Shoulder Press (Machine),,3,normal,40.0,12,,4,5,2023,05-2023
+971,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Seated Dip Machine,,1,normal,45.0,12,,4,5,2023,05-2023
+972,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Seated Dip Machine,,2,normal,50.0,12,,4,5,2023,05-2023
+973,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Seated Dip Machine,,3,normal,50.0,12,,4,5,2023,05-2023
+974,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Lateral Raise (Cable),,1,normal,5.0,12,,4,5,2023,05-2023
+975,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Lateral Raise (Cable),,2,normal,5.0,12,,4,5,2023,05-2023
+976,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Lateral Raise (Cable),,3,normal,5.0,12,,4,5,2023,05-2023
+977,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Triceps Pushdown,,1,normal,40.0,12,,4,5,2023,05-2023
+978,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Triceps Pushdown,,2,normal,40.0,12,,4,5,2023,05-2023
+979,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Triceps Pushdown,,3,normal,40.0,12,,4,5,2023,05-2023
+980,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Cable Overhead (Extensión De Triceps),,1,normal,20.0,12,,4,5,2023,05-2023
+981,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Cable Overhead (Extensión De Triceps),,2,normal,20.0,12,,4,5,2023,05-2023
+982,Pecho-tríceps,2023-05-04 11:06:00,2023-05-04 12:21:00,Cable Overhead (Extensión De Triceps),,3,normal,15.0,12,,4,5,2023,05-2023
+983,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Bench Press (Barbell),,1,normal,57.0,10,,13,4,2023,04-2023
+984,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Bench Press (Barbell),,2,normal,57.0,9,,13,4,2023,04-2023
+985,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Bench Press (Barbell),,3,normal,57.0,8,,13,4,2023,04-2023
+986,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Iso-Lateral Chest Press (Machine),,1,normal,31.8,12,,13,4,2023,04-2023
+987,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Iso-Lateral Chest Press (Machine),,2,normal,36.8,12,,13,4,2023,04-2023
+988,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Iso-Lateral Chest Press (Machine),,3,normal,36.8,10,,13,4,2023,04-2023
+989,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Cable Fly Crossovers,,1,normal,15.0,12,,13,4,2023,04-2023
+990,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Cable Fly Crossovers,,2,normal,20.0,12,,13,4,2023,04-2023
+991,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Cable Fly Crossovers,,3,normal,20.0,12,,13,4,2023,04-2023
+992,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Seated Shoulder Press (Machine),,1,normal,35.0,12,,13,4,2023,04-2023
+993,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Seated Shoulder Press (Machine),,2,normal,40.0,12,,13,4,2023,04-2023
+994,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Seated Shoulder Press (Machine),,3,normal,45.0,11,,13,4,2023,04-2023
+995,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Seated Dip Machine,,1,normal,45.0,12,,13,4,2023,04-2023
+996,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Seated Dip Machine,,2,normal,45.0,12,,13,4,2023,04-2023
+997,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Seated Dip Machine,,3,normal,45.0,12,,13,4,2023,04-2023
+998,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Lateral Raise (Cable),,1,normal,7.0,12,,13,4,2023,04-2023
+999,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Lateral Raise (Cable),,2,normal,7.0,12,,13,4,2023,04-2023
+1000,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Lateral Raise (Cable),,3,normal,7.0,12,,13,4,2023,04-2023
+1001,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Triceps Pushdown,,1,normal,40.0,12,,13,4,2023,04-2023
+1002,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Triceps Pushdown,,2,normal,45.0,11,,13,4,2023,04-2023
+1003,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Triceps Pushdown,,3,normal,45.0,10,,13,4,2023,04-2023
+1004,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Cable Overhead (Extensión De Triceps),,1,normal,20.0,12,,13,4,2023,04-2023
+1005,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Cable Overhead (Extensión De Triceps),,2,normal,25.0,12,,13,4,2023,04-2023
+1006,Pecho-tríceps,2023-04-13 15:56:00,2023-04-13 16:56:00,Cable Overhead (Extensión De Triceps),,3,normal,25.0,12,,13,4,2023,04-2023
+1007,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Bicep Curl (Dumbbell),,1,normal,8.5,12,,11,4,2023,04-2023
+1008,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Bicep Curl (Dumbbell),,2,normal,8.5,12,,11,4,2023,04-2023
+1009,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Bicep Curl (Dumbbell),,3,normal,8.5,12,,11,4,2023,04-2023
+1010,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Lat Pulldown (Cable),,1,normal,40.0,12,,11,4,2023,04-2023
+1011,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Lat Pulldown (Cable),,2,normal,45.0,12,,11,4,2023,04-2023
+1012,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Lat Pulldown (Cable),,3,normal,45.0,12,,11,4,2023,04-2023
+1013,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,11,4,2023,04-2023
+1014,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,11,4,2023,04-2023
+1015,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Seated Cable Row - Bar Grip,,3,normal,45.0,12,,11,4,2023,04-2023
+1016,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Single Arm Cable Row,,1,normal,35.0,12,,11,4,2023,04-2023
+1017,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Single Arm Cable Row,,2,normal,35.0,12,,11,4,2023,04-2023
+1018,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Single Arm Cable Row,,3,normal,35.0,12,,11,4,2023,04-2023
+1019,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Hammer Curl (Dumbbell),,1,normal,8.5,12,,11,4,2023,04-2023
+1020,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Hammer Curl (Dumbbell),,2,normal,8.5,12,,11,4,2023,04-2023
+1021,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Hammer Curl (Dumbbell),,3,normal,8.5,10,,11,4,2023,04-2023
+1022,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Shrug (Dumbbell),,1,normal,12.0,12,,11,4,2023,04-2023
+1023,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Shrug (Dumbbell),,2,normal,12.0,12,,11,4,2023,04-2023
+1024,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Shrug (Dumbbell),,3,normal,12.0,12,,11,4,2023,04-2023
+1025,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Face Pull,,1,normal,40.0,12,,11,4,2023,04-2023
+1026,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Face Pull,,2,normal,40.0,12,,11,4,2023,04-2023
+1027,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Face Pull,,3,normal,40.0,12,,11,4,2023,04-2023
+1028,Espalda-Bíceps,2023-04-11 10:49:00,2023-04-11 12:08:00,Chin Up (Weighted),,1,normal,,6,,11,4,2023,04-2023
+1029,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Bench Press (Barbell),,1,normal,52.0,12,,10,4,2023,04-2023
+1030,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Bench Press (Barbell),,2,normal,52.0,12,,10,4,2023,04-2023
+1031,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Bench Press (Barbell),,3,normal,52.0,10,,10,4,2023,04-2023
+1032,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Iso-Lateral Chest Press (Machine),,1,normal,31.8,12,,10,4,2023,04-2023
+1033,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Iso-Lateral Chest Press (Machine),,2,normal,36.8,12,,10,4,2023,04-2023
+1034,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Iso-Lateral Chest Press (Machine),,3,normal,36.8,10,,10,4,2023,04-2023
+1035,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Cable Fly Crossovers,,1,normal,15.0,12,,10,4,2023,04-2023
+1036,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Cable Fly Crossovers,,2,normal,15.0,12,,10,4,2023,04-2023
+1037,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Cable Fly Crossovers,,3,normal,15.0,12,,10,4,2023,04-2023
+1038,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Seated Shoulder Press (Machine),,1,normal,35.0,12,,10,4,2023,04-2023
+1039,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Seated Shoulder Press (Machine),,2,normal,40.0,12,,10,4,2023,04-2023
+1040,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Seated Shoulder Press (Machine),,3,normal,45.0,11,,10,4,2023,04-2023
+1041,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Seated Dip Machine,,1,normal,45.0,12,,10,4,2023,04-2023
+1042,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Seated Dip Machine,,2,normal,45.0,12,,10,4,2023,04-2023
+1043,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Seated Dip Machine,,3,normal,45.0,12,,10,4,2023,04-2023
+1044,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Lateral Raise (Cable),,1,normal,7.0,12,,10,4,2023,04-2023
+1045,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Lateral Raise (Cable),,2,normal,7.0,12,,10,4,2023,04-2023
+1046,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Lateral Raise (Cable),,3,normal,7.0,12,,10,4,2023,04-2023
+1047,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Triceps Pushdown,,1,normal,40.0,12,,10,4,2023,04-2023
+1048,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Triceps Pushdown,,2,normal,45.0,11,,10,4,2023,04-2023
+1049,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Triceps Pushdown,,3,normal,45.0,10,,10,4,2023,04-2023
+1050,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Cable Overhead (Extensión De Triceps),,1,normal,20.0,12,,10,4,2023,04-2023
+1051,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Cable Overhead (Extensión De Triceps),,2,normal,25.0,12,,10,4,2023,04-2023
+1052,Pecho-tríceps,2023-04-10 11:19:00,2023-04-10 12:19:00,Cable Overhead (Extensión De Triceps),,3,normal,25.0,12,,10,4,2023,04-2023
+1053,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Bicep Curl (Dumbbell),,1,normal,8.5,12,,4,4,2023,04-2023
+1054,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Bicep Curl (Dumbbell),,2,normal,8.5,12,,4,4,2023,04-2023
+1055,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Bicep Curl (Dumbbell),,3,normal,8.5,12,,4,4,2023,04-2023
+1056,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Lat Pulldown (Cable),,1,normal,40.0,12,,4,4,2023,04-2023
+1057,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Lat Pulldown (Cable),,2,normal,45.0,12,,4,4,2023,04-2023
+1058,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Lat Pulldown (Cable),,3,normal,45.0,12,,4,4,2023,04-2023
+1059,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,4,4,2023,04-2023
+1060,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,4,4,2023,04-2023
+1061,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Seated Cable Row - Bar Grip,,3,normal,45.0,10,,4,4,2023,04-2023
+1062,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Single Arm Cable Row,,1,normal,35.0,12,,4,4,2023,04-2023
+1063,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Single Arm Cable Row,,2,normal,35.0,12,,4,4,2023,04-2023
+1064,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Single Arm Cable Row,,3,normal,35.0,12,,4,4,2023,04-2023
+1065,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Hammer Curl (Dumbbell),,1,normal,8.5,12,,4,4,2023,04-2023
+1066,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Hammer Curl (Dumbbell),,2,normal,8.5,12,,4,4,2023,04-2023
+1067,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Hammer Curl (Dumbbell),,3,normal,8.5,10,,4,4,2023,04-2023
+1068,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Shrug (Dumbbell),,1,normal,12.0,12,,4,4,2023,04-2023
+1069,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Shrug (Dumbbell),,2,normal,12.0,12,,4,4,2023,04-2023
+1070,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Shrug (Dumbbell),,3,normal,12.0,12,,4,4,2023,04-2023
+1071,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Face Pull,,1,normal,40.0,12,,4,4,2023,04-2023
+1072,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Face Pull,,2,normal,40.0,12,,4,4,2023,04-2023
+1073,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Face Pull,,3,normal,40.0,12,,4,4,2023,04-2023
+1074,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Chin Up (Weighted),,1,normal,,6,,4,4,2023,04-2023
+1075,Espalda-Bíceps,2023-04-04 11:09:00,2023-04-04 12:15:00,Chin Up (Weighted),,2,normal,,4,,4,4,2023,04-2023
+1076,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Bench Press (Barbell),,1,normal,50.0,12,,3,4,2023,04-2023
+1077,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Bench Press (Barbell),,2,normal,50.0,12,,3,4,2023,04-2023
+1078,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Bench Press (Barbell),,3,normal,52.5,10,,3,4,2023,04-2023
+1079,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Iso-Lateral Chest Press (Machine),,1,normal,31.8,12,,3,4,2023,04-2023
+1080,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Iso-Lateral Chest Press (Machine),,2,normal,31.8,12,,3,4,2023,04-2023
+1081,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Iso-Lateral Chest Press (Machine),,3,normal,36.8,12,,3,4,2023,04-2023
+1082,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Cable Fly Crossovers,,1,normal,15.0,12,,3,4,2023,04-2023
+1083,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Cable Fly Crossovers,,2,normal,15.0,12,,3,4,2023,04-2023
+1084,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Cable Fly Crossovers,,3,normal,15.0,12,,3,4,2023,04-2023
+1085,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Seated Shoulder Press (Machine),,1,normal,35.0,12,,3,4,2023,04-2023
+1086,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Seated Shoulder Press (Machine),,2,normal,35.0,12,,3,4,2023,04-2023
+1087,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Seated Shoulder Press (Machine),,3,normal,40.0,12,,3,4,2023,04-2023
+1088,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Lateral Raise (Cable),,1,normal,7.0,12,,3,4,2023,04-2023
+1089,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Lateral Raise (Cable),,2,normal,7.0,12,,3,4,2023,04-2023
+1090,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Lateral Raise (Cable),,3,normal,7.0,12,,3,4,2023,04-2023
+1091,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Triceps Pushdown,,1,normal,40.0,12,,3,4,2023,04-2023
+1092,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Triceps Pushdown,,2,normal,40.0,12,,3,4,2023,04-2023
+1093,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Triceps Pushdown,,3,normal,45.0,12,,3,4,2023,04-2023
+1094,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Cable Overhead (Extensión De Triceps),,1,normal,20.0,12,,3,4,2023,04-2023
+1095,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Cable Overhead (Extensión De Triceps),,2,normal,25.0,12,,3,4,2023,04-2023
+1096,Pecho-tríceps,2023-04-03 11:13:00,2023-04-03 12:33:00,Cable Overhead (Extensión De Triceps),,3,normal,25.0,12,,3,4,2023,04-2023
+1097,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Bicep Curl (Dumbbell),,1,normal,8.0,12,,31,3,2023,03-2023
+1098,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Bicep Curl (Dumbbell),,2,normal,8.0,12,,31,3,2023,03-2023
+1099,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Bicep Curl (Dumbbell),,3,normal,8.0,12,,31,3,2023,03-2023
+1100,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Lat Pulldown (Cable),,1,normal,40.0,12,,31,3,2023,03-2023
+1101,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Lat Pulldown (Cable),,2,normal,40.0,12,,31,3,2023,03-2023
+1102,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Lat Pulldown (Cable),,3,normal,45.0,12,,31,3,2023,03-2023
+1103,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Seated Cable Row - Bar Grip,,1,normal,40.0,12,,31,3,2023,03-2023
+1104,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Seated Cable Row - Bar Grip,,2,normal,40.0,12,,31,3,2023,03-2023
+1105,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Seated Cable Row - Bar Grip,,3,normal,40.0,12,,31,3,2023,03-2023
+1106,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Single Arm Cable Row,,1,normal,35.0,12,,31,3,2023,03-2023
+1107,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Single Arm Cable Row,,2,normal,35.0,12,,31,3,2023,03-2023
+1108,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Single Arm Cable Row,,3,normal,35.0,12,,31,3,2023,03-2023
+1109,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Hammer Curl (Dumbbell),,1,normal,8.0,12,,31,3,2023,03-2023
+1110,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Hammer Curl (Dumbbell),,2,normal,8.0,12,,31,3,2023,03-2023
+1111,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Hammer Curl (Dumbbell),,3,normal,8.0,12,,31,3,2023,03-2023
+1112,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Shrug (Dumbbell),,1,normal,12.0,12,,31,3,2023,03-2023
+1113,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Shrug (Dumbbell),,2,normal,12.0,12,,31,3,2023,03-2023
+1114,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Shrug (Dumbbell),,3,normal,12.0,12,,31,3,2023,03-2023
+1115,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Face Pull,,1,normal,40.0,12,,31,3,2023,03-2023
+1116,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Face Pull,,2,normal,40.0,12,,31,3,2023,03-2023
+1117,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Face Pull,,3,normal,40.0,12,,31,3,2023,03-2023
+1118,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Chin Up (Weighted),,2,normal,,5,,31,3,2023,03-2023
+1119,Espalda-Bíceps,2023-03-31 11:13:00,2023-03-31 12:28:00,Chin Up (Weighted),,3,normal,,5,,31,3,2023,03-2023
+1120,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Bench Press (Barbell),,1,normal,50.0,12,,27,3,2023,03-2023
+1121,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Bench Press (Barbell),,2,normal,50.0,11,,27,3,2023,03-2023
+1122,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Bench Press (Barbell),,3,normal,50.0,11,,27,3,2023,03-2023
+1123,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Iso-Lateral Chest Press (Machine),,1,normal,31.8,12,,27,3,2023,03-2023
+1124,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Iso-Lateral Chest Press (Machine),,2,normal,31.8,12,,27,3,2023,03-2023
+1125,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Iso-Lateral Chest Press (Machine),,3,normal,36.8,12,,27,3,2023,03-2023
+1126,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Cable Fly Crossovers,,1,normal,15.0,12,,27,3,2023,03-2023
+1127,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Cable Fly Crossovers,,2,normal,15.0,12,,27,3,2023,03-2023
+1128,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Cable Fly Crossovers,,3,normal,15.0,12,,27,3,2023,03-2023
+1129,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Seated Shoulder Press (Machine),,1,normal,35.0,12,,27,3,2023,03-2023
+1130,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Seated Shoulder Press (Machine),,2,normal,35.0,12,,27,3,2023,03-2023
+1131,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Seated Shoulder Press (Machine),,3,normal,35.0,12,,27,3,2023,03-2023
+1132,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Chest Dip (Assisted),,1,normal,45.0,12,,27,3,2023,03-2023
+1133,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Chest Dip (Assisted),,2,normal,45.0,12,,27,3,2023,03-2023
+1134,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Chest Dip (Assisted),,3,normal,45.0,12,,27,3,2023,03-2023
+1135,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Seated Dip Machine,,1,normal,45.0,12,,27,3,2023,03-2023
+1136,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Seated Dip Machine,,2,normal,45.0,12,,27,3,2023,03-2023
+1137,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Seated Dip Machine,,3,normal,45.0,12,,27,3,2023,03-2023
+1138,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Lateral Raise (Cable),,1,normal,7.0,12,,27,3,2023,03-2023
+1139,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Lateral Raise (Cable),,2,normal,7.0,12,,27,3,2023,03-2023
+1140,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Lateral Raise (Cable),,3,normal,7.0,10,,27,3,2023,03-2023
+1141,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Triceps Pushdown,,1,normal,40.0,12,,27,3,2023,03-2023
+1142,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Triceps Pushdown,,2,normal,40.0,12,,27,3,2023,03-2023
+1143,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Triceps Pushdown,,3,normal,45.0,12,,27,3,2023,03-2023
+1144,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Cable Overhead (Extensión De Triceps),,1,normal,20.0,12,,27,3,2023,03-2023
+1145,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Cable Overhead (Extensión De Triceps),,2,normal,20.0,12,,27,3,2023,03-2023
+1146,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Cable Overhead (Extensión De Triceps),,3,normal,20.0,12,,27,3,2023,03-2023
+1147,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Bench Press - Close Grip (Barbell),,1,normal,30.0,12,,27,3,2023,03-2023
+1148,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Bench Press - Close Grip (Barbell),,2,normal,30.0,12,,27,3,2023,03-2023
+1149,Pecho-tríceps,2023-03-27 15:12:00,2023-03-27 16:00:00,Bench Press - Close Grip (Barbell),,3,normal,30.0,12,,27,3,2023,03-2023

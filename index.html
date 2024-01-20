@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <title>Test de graficos</title>
+</head>
+<body>
+    <h1>Main title</h1>
+    <div id="plotly-plot"></div>
+
+    <script>
+        const get_plot = async (name) => {
+            try{
+                const response = await fetch('http://127.0.0.1:8000/plot/hi', {
+                    method: "GET",
+                    // headers: {
+                    //     'Access-Control-Allow-Origin': 'http://127.0.0.1'
+                    // }
+                });
+
+                if(!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+                const data = await response.json();
+                return data;
+            } catch(err) {
+                console.error(err);
+            }
+        }
+
+        const plot_in_container = () => {
+            const plot = get_plot('bla').then(data => {
+                Plotly.newPlot('plotly-plot', plot.data, plot.layout);
+            })
+        }
+        plot_in_container();
+        // let plot1 = JSON.parse(get_plot('bla').then(data => data));
+    </script>
+</body>
+</html>
