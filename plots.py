@@ -1,16 +1,17 @@
 import plotly.express as px
 import plotly.graph_objects as go
-import plotly.io as pio
+# import plotly.io as pio
 
-pio.templates.default = "plotly_dark"
+# pio.templates.default = "plotly_dark"
 peso_corporal = 68.7
 
-def get_count_time_series(df):
+def get_count_time_series(df, theme: str = "plotly_dark"):
     data = df.groupby('start_time').agg({'exercise_title': 'count', 'weight_kg': 'mean'})\
             .rename({'exercise_title': 'exercise_count'}, axis=1)
     data['weight_kg'] = data['weight_kg'].round(2)
     fig = px.scatter(data, x=data.index, y='exercise_count', 
-                color='weight_kg', 
+                color='weight_kg',
+                template=theme,
                 # marginal_x="histogram"
                 )
 
@@ -37,7 +38,7 @@ def get_count_time_series(df):
     )
     return fig
 
-def get_count_by_month(df):
+def get_count_by_month(df, theme: str = "plotly_dark"):
     data = df.groupby(['m-y', 'title']).agg({'exercise_title': 'count', 'weight_kg': 'mean'})\
         .rename({'exercise_title': 'exercise_count'}, axis=1)
     data['weight_kg'] = data['weight_kg'].round(2)
@@ -48,6 +49,7 @@ def get_count_by_month(df):
             facet_col='title',
             # marginal_x="histogram"
             barmode='group',
+            template=theme,
             )
 
     for i in range(len(fig['data'])):
@@ -61,7 +63,7 @@ def get_count_by_month(df):
     )
     return fig
 
-def get_data_each_ej(df):
+def get_data_each_ej(df, theme: str = "plotly_dark"):
     operations = ['max', 'min', 'mean']
     data = df.groupby(['title', 'exercise_title']).agg({
         'weight_kg': operations
@@ -69,5 +71,5 @@ def get_data_each_ej(df):
     data = data.droplevel(1, axis=1)
     data.columns = [f'peso_{op}'for op in operations]
     data = data.reset_index(level='title')
-    fig = px.bar(data, x=data.index, y='peso_mean')
+    fig = px.bar(data, x=data.index, y='peso_mean', template=theme)
     return fig
