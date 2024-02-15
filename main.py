@@ -1,9 +1,7 @@
-import pandas as pd
 import os
-import json
 import discord
 import asyncio
-from typing import Union
+from contextlib import asynccontextmanager
 
 from fastapi import Depends, FastAPI
 # from fastapi.responses import JSONResponse
@@ -11,15 +9,27 @@ from fastapi.security.api_key import APIKey
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
-from utils import get_df
+from utils.hevy_utils import get_df
+import routers
 from labfra_bot import LabBot
 import auth
-import plots
-
-app = FastAPI()
 
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 PREFIX_BOT = os.getenv("PREFIX_BOT")
+DISCORD_ACTIVE = int(os.getenv("DISCORD_ACTIVE", 0))
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    df = get_df(data_dir)
+    df.to_csv(os.path.join(data_dir, 'data.csv'))
+    if DISCORD_ACTIVE:
+        asyncio.create_task(bot.start(DISCORD_TOKEN))
+
+    yield
+    print("Finished app")
+
+app = FastAPI(lifespan=lifespan)
+app.include_router(routers.hevy_router)
 # Bot
 intents = discord.Intents.default()
 intents.members = True
@@ -47,26 +57,16 @@ app.add_middleware(
 script_dir = os.path.dirname(__file__)
 data_dir = os.path.join(script_dir, 'data')
 
-@app.on_event("startup")
-def startup():
-    df = get_df(data_dir)
-    df.to_csv(os.path.join(data_dir, 'data.csv'))
-    asyncio.create_task(bot.start(DISCORD_TOKEN))
+# @app.on_event("startup")
+# def startup():
+#     df = get_df(data_dir)
+#     df.to_csv(os.path.join(data_dir, 'data.csv'))
+#     if DISCORD_ACTIVE:
+#         asyncio.create_task(bot.start(DISCORD_TOKEN))
 
 @app.get("/")
 def read_root():
     return {"Hello": "World"}
-
-
-@app.get("/plots/{theme}")
-def get_plots(theme: str = "", api_key: APIKey = Depends(auth.get_api_key)):
-    df = pd.read_csv(os.path.join(data_dir, 'data.csv'))
-    plot = plots.get_count_time_series(df, theme=theme)
-    plot2 = plots.get_count_by_month(df, theme=theme)
-    plot3 = plots.get_data_each_ej(df, theme=theme)
-    data = [json.loads(p.to_json()) for p in [plot, plot2, plot3]]
-    # print(data.keys())
-    return data
 
 if __name__ == '__main__':
     # main()
