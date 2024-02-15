@@ -100,7 +100,7 @@ def get_count_by_month(df, theme: str = "plotly_dark"):
     )
     return fig
 
-def get_data_each_ej(df, peso_coporal: float = MEAN_WEIGHT, theme: str = "plotly_dark"):
+def get_data_each_ej(df, peso_corporal: float = MEAN_WEIGHT, theme: str = "plotly_dark"):
     operations = ['max', 'min', 'mean']
     data = df.groupby(['title', 'exercise_title']).agg({
         'weight_kg': operations

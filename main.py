@@ -3,7 +3,7 @@ import discord
 import asyncio
 from contextlib import asynccontextmanager
 
-from fastapi import Depends, FastAPI
+from fastapi import FastAPI, Depends
 # from fastapi.responses import JSONResponse
 from fastapi.security.api_key import APIKey
 from fastapi.middleware.cors import CORSMiddleware
@@ -36,14 +36,14 @@ intents.members = True
 intents.message_content = True
 bot = LabBot(intents=intents)
 
-ALLOWED_HOSTS = [
+ALLOWED_HOSTS_DEFAULT = ','.join([
     "http://localhost:5173",
     "https://127.0.0.1",
     "http://localhost",
-    "http://127.0.0.1:8000",
-    "http://127.0.0.1:8080",
     "http://localhost:8080",
-]
+])
+
+ALLOWED_HOSTS = os.getenv("ALLOWED_HOSTS", ALLOWED_HOSTS_DEFAULT).replace(' ', '').split(',')
 
 app.add_middleware(
     CORSMiddleware,
