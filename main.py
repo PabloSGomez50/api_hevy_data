@@ -2,6 +2,8 @@ import os
 import discord
 import asyncio
 from contextlib import asynccontextmanager
+from dotenv import load_dotenv
+load_dotenv(override=True)
 
 from fastapi import FastAPI, Depends
 # from fastapi.responses import JSONResponse
@@ -13,6 +15,7 @@ from utils.hevy_utils import get_df
 import routers
 from labfra_bot import LabBot
 import auth
+from utils import meli_utils
 
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 PREFIX_BOT = os.getenv("PREFIX_BOT")
@@ -57,16 +60,14 @@ app.add_middleware(
 script_dir = os.path.dirname(__file__)
 data_dir = os.path.join(script_dir, 'data')
 
-# @app.on_event("startup")
-# def startup():
-#     df = get_df(data_dir)
-#     df.to_csv(os.path.join(data_dir, 'data.csv'))
-#     if DISCORD_ACTIVE:
-#         asyncio.create_task(bot.start(DISCORD_TOKEN))
-
 @app.get("/")
 def read_root():
     return {"Hello": "World"}
+
+@app.get("/meli/{search_text}")
+def find_meli_posts(search_text: str):
+    output = meli_utils.search_ml_posts(search_text)
+    return output
 
 if __name__ == '__main__':
     # main()
