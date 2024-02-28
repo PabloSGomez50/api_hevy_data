@@ -4,7 +4,7 @@ from fastapi.security.api_key import APIKey
 import os
 import pandas as pd
 import json
-import utils.hevy_utils as plots
+import views.hevy_utils as plots
 import auth
 
 hevy_router = APIRouter()
