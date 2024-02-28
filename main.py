@@ -11,15 +11,17 @@ from fastapi.security.api_key import APIKey
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
-from utils.hevy_utils import get_df
+from views.hevy_utils import get_df
 import routers
 from labfra_bot import LabBot
 import auth
-from utils import meli_utils
+from views import meli
+from db import mysql
 
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 PREFIX_BOT = os.getenv("PREFIX_BOT")
 DISCORD_ACTIVE = int(os.getenv("DISCORD_ACTIVE", 0))
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -27,12 +29,14 @@ async def lifespan(app: FastAPI):
     df.to_csv(os.path.join(data_dir, 'data.csv'))
     if DISCORD_ACTIVE:
         asyncio.create_task(bot.start(DISCORD_TOKEN))
+    mysql.Base.metadata.create_all(bind=mysql.engine)
 
     yield
     print("Finished app")
 
 app = FastAPI(lifespan=lifespan)
 app.include_router(routers.hevy_router)
+app.include_router(routers.meli_router)
 # Bot
 intents = discord.Intents.default()
 intents.members = True
@@ -66,7 +70,7 @@ def read_root():
 
 @app.get("/meli/{search_text}")
 def find_meli_posts(search_text: str):
-    output = meli_utils.search_ml_posts(search_text)
+    output = meli.search_ml_posts(search_text)
     return output
 
 if __name__ == '__main__':
