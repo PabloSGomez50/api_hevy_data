@@ -6,7 +6,6 @@ from dotenv import load_dotenv
 load_dotenv(override=True)
 
 from fastapi import FastAPI, Depends
-# from fastapi.responses import JSONResponse
 from fastapi.security.api_key import APIKey
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
@@ -17,6 +16,7 @@ from labfra_bot import LabBot
 import auth
 from views import meli
 from db import mysql
+import logging
 
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 PREFIX_BOT = os.getenv("PREFIX_BOT")
