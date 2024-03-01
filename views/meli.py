@@ -24,6 +24,7 @@ def search_ml_posts(search_text: str) -> list:
     r = requests.get(f"{ML_BASE_URL}/{search_text.replace(' ', '-')}", headers=ML_HEADERS)
 
     if r.ok:
+        print("Get content from html")
         content = html.fromstring(r.text)
     else:
         print(f"ERROR MELI {r.status_code}: {r.text}")
@@ -31,20 +32,22 @@ def search_ml_posts(search_text: str) -> list:
     
     data = list()
     posts = content.xpath('//div[@class="ui-search-result__wrapper"]')
-
+    print("Get posts", len(posts))
     for idx, post in enumerate(posts):
         retrieve = {}
         try:
             title_card = post.xpath('.//a[contains(@class,"ui-search-link__title-card")]')[0]
-            retrieve['title'] = title_card.attrib.get("title")
-            retrieve['link_to'] = title_card.attrib.get("href")
+            retrieve['title'] = title_card.attrib.get("title")[:127]
+            retrieve['url'] = title_card.attrib.get("href")[:255]
         except IndexError as e:
             print(f"Error getting post {idx}: {e}")
             continue
         try:
-            retrieve['price'] = float(post.xpath('.//span[@class="andes-money-amount__fraction"]/text()')[0])
+            retrieve['price'] = round(float(post.xpath('.//span[@class="andes-money-amount__fraction"]/text()')[0]), 2)
             shipping_card = post.xpath('.//div[contains(@class,"ui-search-item__group__element--shipping")]/p')
-            retrieve['shipping'] = shipping_card[0].text if len(shipping_card) > 0 else "Standard shipping"
+            # Test class "ui-search-item__shipping--free"
+            # retrieve['free_ship'] = shipping_card[0].text if len(shipping_card) > 0 else "Standard shipping"
+            retrieve['free_ship'] = len(shipping_card) > 0
 
         except IndexError as e:
             print(f"Error getting ML info in {retrieve['title']}")
