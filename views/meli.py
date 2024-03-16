@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import requests
 from lxml import html
+import re
 
 ML_BASE_URL = "https://listado.mercadolibre.com.ar/"
 ML_HEADERS = {
@@ -37,18 +38,21 @@ def search_ml_posts(search_text: str) -> list:
         retrieve = {}
         try:
             title_card = post.xpath('.//a[contains(@class,"ui-search-link__title-card")]')[0]
-            retrieve['title'] = title_card.attrib.get("title")[:127]
-            retrieve['url'] = title_card.attrib.get("href")[:255]
+            retrieve['title'] = title_card.attrib.get("title")
+
+            retrieve['url'] = extract_compact_url(title_card.attrib.get("href"))
         except IndexError as e:
             print(f"Error getting post {idx}: {e}")
             continue
         try:
-            retrieve['price'] = round(float(post.xpath('.//span[@class="andes-money-amount__fraction"]/text()')[0]), 2)
-            shipping_card = post.xpath('.//div[contains(@class,"ui-search-item__group__element--shipping")]/p')
+            text_price = post.xpath('.//span[@class="andes-money-amount__fraction"]/text()')[0].replace('.', '')
+            retrieve['price'] = round(float(text_price), 2)
+            # shipping_card = post.xpath('.//div[contains(@class,"ui-search-item__group__element--shipping")]/p')
+            shipping_card = post.xpath('.//span[contains(@class,"ui-pb-highlight")]/text()')
             # Test class "ui-search-item__shipping--free"
             # retrieve['free_ship'] = shipping_card[0].text if len(shipping_card) > 0 else "Standard shipping"
             retrieve['free_ship'] = len(shipping_card) > 0
-
+            retrieve['labels'] = ','.join(shipping_card)
         except IndexError as e:
             print(f"Error getting ML info in {retrieve['title']}")
         except ValueError as e:
@@ -57,3 +61,18 @@ def search_ml_posts(search_text: str) -> list:
         data.append(retrieve)
 
     return data
+
+def extract_compact_url(href: str) -> str:
+    """
+    Extract the simple url of the item
+    """
+    if re.search(r'click1\.mercadolibre', href):
+        r = requests.get(href, headers=ML_HEADERS)
+        if r.status_code != 200:
+            print(f'Error getting link from click1 href: {href}')
+            return ""
+        href = r.url
+
+    base_url_regex = r'(?:https://)?.*?\.mercadolibre.com(?:\.ar)?[^?#]+'
+
+    return re.findall(base_url_regex, href)[0]

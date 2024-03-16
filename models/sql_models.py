@@ -41,6 +41,7 @@ class MLProducts(Base):
     url = Column(String(512))
     img_url = Column(String(512), nullable=True)
     free_ship = Column(Boolean, default=False)
+    labels = Column(String(127), nullable=True)
 
     prices = relationship("MLProductPrices", back_populates="product", cascade="all, delete-orphan")
 

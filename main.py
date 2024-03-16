@@ -68,7 +68,7 @@ data_dir = os.path.join(script_dir, 'data')
 def read_root():
     return {"Hello": "World"}
 
-@app.get("/meli/{search_text}")
+@app.get("/meli/test/{search_text}")
 def find_meli_posts(search_text: str):
     output = meli.search_ml_posts(search_text)
     return output

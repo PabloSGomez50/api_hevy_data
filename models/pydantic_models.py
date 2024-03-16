@@ -47,7 +47,6 @@ class ProductPrice(ProductPriceBase):
 
     id: int
     time_created: datetime.datetime
-    product: "Product"
 
 
 class ProductBase(BaseModel):
@@ -64,3 +63,8 @@ class Product(ProductBase):
 
     id: int
     prices: List[ProductPrice] = []
+
+class ResponseProduct(BaseModel):
+
+    total: int
+    data: List[Product]

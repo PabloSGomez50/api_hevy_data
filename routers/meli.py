@@ -30,7 +30,8 @@ def get_users(skip: int = 0, limit: int = 100, db: Session = Depends(get_db),
     for user in users:
         if user.time_updated is None:
             user.time_updated = user.time_created
-    print(users[0].time_updated)
+    if len(users) > 0:
+        print(users[0].time_updated)
     return users
 
 
@@ -108,7 +109,7 @@ def fetch_ml_product_by_id(product_id: int, db: Session = Depends(get_db),
         
     return product
 
-@meli_router.get("/product/search/{product_name}", response_model=list[schema.Product])
+@meli_router.get("/product/search/{product_name}", response_model=schema.ResponseProduct)
 def fetch_ml_product_by_name(product_name: str, db: Session = Depends(get_db),
     # api_key: APIKey = Depends(auth.get_api_key)
     ):
@@ -119,5 +120,9 @@ def fetch_ml_product_by_name(product_name: str, db: Session = Depends(get_db),
     products =  db.query(models.MLProducts).filter(
         models.MLProducts.title.like(f"%{product_name}%")
         ).all()
-        
-    return products
+
+    response = {
+        'total': len(products),
+        'data': products
+    }    
+    return response
