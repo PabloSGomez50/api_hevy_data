@@ -12,7 +12,7 @@ class User(Base):
     time_updated = Column(DateTime(timezone=True), server_default=func.now(), onupdate=func.now())
     firstname = Column(String(64))
     email = Column(String(64), unique=True, index=True)
-    password = Column(String(256))
+    password = Column(String(512))
     verified = Column(Boolean, default=False)
 
     addresses = relationship("Address", back_populates="user", cascade="all, delete-orphan")
